@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+This page is under construction, soon it is going to have some project pages
+and blog updates.
+Instead, take a look at my
+[professional page][ufrj-page], my [blog][wordpress-blog]
+or my [github main page][github].
 
 
-[jekyll-organization]: https://github.com/jekyll
+[ufrj-page]: http://www.if.ufrj.br/~gapolinario/
+[wordpress-blog]: https://renormalwords.wordpress.com/
+[github]: https://github.com/gapolinario
