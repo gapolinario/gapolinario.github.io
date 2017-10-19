@@ -21,6 +21,7 @@ to install it, do this with
 
     gem install jekyll bundler
 
+
 Now you are ready to build your first Jekyll website, follow
 their instructions, which is simply to run
 
@@ -31,5 +32,7 @@ running
 
     bundle exec jekyll serve
 
-And then navigating to <a href="http://localhost:4000/">http://localhost:4000/</a>.
+And then navigating to [http://localhost:4000/][4000]
 So far this is all, in the future there will be more on this adventure.
+
+[4000]: http://localhost:4000/
