@@ -2,11 +2,11 @@
 layout: post
 title:  "What License Should I Use"
 date:   2017-08-31 12:00:00 -0200
-categories: git
+categories: legal
 ---
 
 First, one should learn what the
-<a href="en.wikipedia.org/wiki/IANAL">IANAL</a>
+<a href="http://en.wikipedia.org/wiki/IANAL">IANAL</a>
 acronym means. It applies here, so "this is not legal advice" to myself.
 
 <a href="https://choosealicense.com/no-license/">This</a> was the best text

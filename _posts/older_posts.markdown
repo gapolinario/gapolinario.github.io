@@ -2,105 +2,6 @@
 <div class="col-sm-6 col-sm-offset-3">
 
 <h2>
-What License Should I Use
-</h2>
-
-<p>
-First, one should learn what the
-<a href="en.wikipedia.org/wiki/IANAL">IANAL</a>
-acronym means. It applies here, so "this is not legal advice" to myself.
-</p>
-
-<p>
-<a href="https://choosealicense.com/no-license/">This</a> was the best text
-I found which commented the issue on whether or not to include a license
-on my content and which one should I choose. This comes down to two main
-points in my view.
-</p>
-
-<p>
-The first one is whether there is copyrighted or licensed content on my website.
-If it is copyrighted, I might not have the right to use it.
-If it is licensed, I might not have the right to choose a more restrictive
-license
-</p>
-
-<p>
-The second point is what is my intent with the content.
-If I don't include any license, it is implied that the content IS
-copyrighted, but if I want to share the code, it is natural
-to include a license which makes that clear.
-And this is the intent of the content I share on Github.
-</p>
-
-<p>
-A last point to make is that some <a href="https://creativecommons.org/">CC</a>
-licenses should not be used for software, because they do not include
-any requirements on source code.
-Rather, there is the permissive <a href="https://opensource.org/licenses/MIT">MIT License</a>.
-CC licenses should be used for other creative content, instead.
-</p>
-
-<p>
-Most of this I learned at <a href="https://choosealicense.com/">Choose a License</a>.
-</p>
-
-<p class="foot">
-Thursday, August 31, 2017
-</p>
-
-</div>
-</div><!-- end of blog post-->
-
-<div class="blog-post">
-<div class="col-sm-6 col-sm-offset-3">
-
-<h2>
-People
-</h2>
-
-<p>
-Personal pages, non physicists
-</p>
-
-<ul>
-<li><a href="http://ncase.me/">Nicky Case, whole website is open source</a></li>
-<li><a href="http://worrydream.com/">Bret Victor</a></li>
-</ul>
-
-<p class="foot">
-Thursday, August 31, 2017
-</p>
-
-</div>
-</div><!-- end of blog post-->
-
-<div class="blog-post">
-<div class="col-sm-6 col-sm-offset-3">
-
-<h2>
-Testing ClusterMaps
-</h2>
-
-<p> Here is where I'll make sure ClustrMaps widget is working and centered.
-(For the future, do it with javascript code)
-</p>
-
-<div class="cluster">
-<a href="https://clustrmaps.com/site/19r87" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=RVKPQafALspkCQWywJa_6O55LRJbSjJaDStvLMoYBNo&cl=ffffff"></a>
-</div>
-
-<p class="foot">
-Tuesday, August 29, 2017
-</p>
-
-</div>
-</div>
-
-<div class="blog-post">
-<div class="col-sm-6 col-sm-offset-3">
-
-<h2>
 SciDavis as an alternative to QtiPlot for FisExp
 </h2>
 
@@ -171,7 +72,7 @@ changes. I used Linux Mint for some time. This was the time I learned how to
 write programs.
 </p>
 <p>
-toto: A desktop at home that ran ubuntu for a little while, I wanted it to run fast but
+toto: A desktop at home that ran ubuntu for a little while, I want <br>ed it to run fast but
 installed a linux system with unity, I have learned much since then. Named after
 the dog of Dorothy.
 </p>
@@ -304,26 +205,6 @@ git push origin branche             #push commits in branch branche to remote
 
 <p class="foot">
 Thursday, August 17, 2017
-</p>
-
-</div>
-</div><!-- end of blog post-->
-
-<div class="blog-post">
-<div class="col-sm-6 col-sm-offset-3">
-
-<h2>
-Diboa Zouk
-</h2>
-
-<p>
-At Escola Carioca de Dança, Friday, August 11, 2017
-</p>
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fdiboa.diboa.9277%2Fvideos%2F109471569764003%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-
-<p class="foot">
-Wednesday, August 16, 2017
 </p>
 
 </div>
@@ -1034,66 +915,6 @@ page</a> where this is throughly explained.
 
 <p class="foot">
 Wednesday, July 12, 2017
-</p>
-
-</div>
-</div><!-- end of blog post-->
-
-<div class="blog-post">
-<div class="col-sm-6 col-sm-offset-3">
-
-<h2>
-Conditioning Mathematica
-</h2>
-
-<p>
-I was working on some combinatorics problem and Mathematica is always a good
-guide in this type of problem, it can check your conjectured expressions
-by making brute force combinations. Among other more subtle tricks. But today,
-we talk about brute force.
-</p>
-
-<p>
-First I'm going to expand a sum (this would be a good moment to have
-latex or mathml configured for my blog, I know this day would come)
-</p>
-
-<p class="code">
-s = Expand[Sum[s[i]s[i+1],{i,1,10}]^4]
-</p>
-
-<p>
-This takes the fourth product of the sum, on a string of 10 spins,
-expands and calls that s. Then I write out the following rule:
-</p>
-
-<p class="code">
-r = {s[_]^x_ :> x!! /; EvenQ[x], s[_]^x_ :> 0 /; OddQ[x], s[_] -> 0}
-</p>
-
-<p>
-This is what it does: It reduces all even powers to a weird integral, then reduces all
-odd powers to zero, which is the result of a weird but odd integral. The last rule
-reduces s of anything to zero, this is the case of an odd power equal to one, which is
-a special case. Then, the following application of the rule does magic
-</p>
-
-<p class="code">
-s /. r
-</p>
-
-<p>
-This only applies the rules when the expression satisfies a condition, which is having
-an odd or even power.
-</p>
-
-<p>
-This is still incomplete, but it came from problem 2 in <a href="http://www.if.ufrj.br/~moriconi//listsft/lista2.ps" target="_blank">this list</a>
-on a statistical field theory course.
-</p>
-
-<p class="foot">
-Tuesday, July 11, 2017
 </p>
 
 </div>

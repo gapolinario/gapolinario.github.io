@@ -2,7 +2,7 @@
 layout: post
 title:  "How to Configure Mail on Ubuntu"
 date:   2017-06-14 12:00:00 -0200
-categories: mail
+categories: linux
 ---
 
 First I had to install mailutils and ssmtp
@@ -13,30 +13,30 @@ Then I changed the file /etc/ssmtp/ssmtp.conf,
 after editing, it looks like this
 
 ```
-# Config file for sSMTP sendmail <br>
-# <br>
-# The person who gets all mail for userids < 1000 <br>
-# Make this empty to disable rewriting. <br>
-root=postmaster <br><br>
+# Config file for sSMTP sendmail
+#
+# The person who gets all mail for userids < 1000
+# Make this empty to disable rewriting.
+root=postmaster
 
-# The place where the mail goes. The actual machine name is required no <br>
-# MX records are consulted. Commonly mailhosts are named mail.domain.com <br>
-mailhub=smtp.gmail.com:587 <br>
-AuthUser=myemail@mail.com <br>
-AuthPass=mypassword <br>
-UseTLS=YES <br>
-UseSTARTTLS=YES <br><br>
+# The place where the mail goes. The actual machine name is required no
+# MX records are consulted. Commonly mailhosts are named mail.domain.com
+mailhub=smtp.gmail.com:587
+AuthUser=myemail@mail.com
+AuthPass=mypassword
+UseTLS=YES
+UseSTARTTLS=YES
 
-# Where will the mail seem to come from? <br>
-rewriteDomain=gmail.com <br><br>
+# Where will the mail seem to come from?
+rewriteDomain=gmail.com
 
-# The full hostname <br>
-hostname=computername <br><br>
+# The full hostname
+hostname=computername
 
-# Are users allowed to set their own From: address? <br>
-# YES - Allow the user to specify their own From: address <br>
-# NO - Use the system generated From: address <br>
-FromLineOverride=YES <br><br>
+# Are users allowed to set their own From: address?
+# YES - Allow the user to specify their own From: address
+# NO - Use the system generated From: address
+FromLineOverride=YES
 ```
 
 Then emails are happily sent with

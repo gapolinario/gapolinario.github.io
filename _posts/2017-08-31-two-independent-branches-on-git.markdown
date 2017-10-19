@@ -34,11 +34,11 @@ more complex branch names.
 
 You can delete a local branch with
 
-    git branch -d &ltbranch-name&gt
+    git branch -d <branch-name>
 
 Then delete it on the remote with
 
-    git push --delete origin &ltbranch-name&gt
+    git push --delete origin <branch-name>
 
 All branches can be quickly updated with
 
