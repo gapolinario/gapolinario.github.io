@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Conditioning Mathematica"
+title:  "Diboa Zouk"
 date:   2017-08-16 12:00:00 -0200
 categories: zouk
 ---
