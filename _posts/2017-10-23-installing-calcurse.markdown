@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Installing calcurse"
-date:   2017-10-23 12:00:00 -0200
+date:   2017-10-23 11:00:00 -0200
 categories: linux
 ---
 
@@ -28,4 +28,4 @@ code will be like. Still C in its major part? Or not?
 
 
 [calcurse]: http://calcurse.org/
-[c-libs]({% post_url 2010-06-19-installation-of-c-libraries-in-ubuntu %})
+[c-libs]: {% post_url 2017-06-19-installation-of-c-libraries-in-ubuntu %}
