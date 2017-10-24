@@ -10,8 +10,7 @@ This is pretty easy with Github, because the projects are publicly available, yo
 simply have to do this:
 
 
-<p class="code">
-wget https://github.com/{username}/{projectname}/archive/{sha}.zip
+    wget https://github.com/{username}/{projectname}/archive/{sha}.zip
 
 
 
@@ -22,8 +21,7 @@ the command line, this is highly not recommended, for security reasons,
 it is better to do the following:
 
 
-<p class="code">
-wget --user=username --ask-password https://bitbucket.org/{owner}/{repository}/get/{sha}.zip
+    wget --user=username --ask-password https://bitbucket.org/{owner}/{repository}/get/{sha}.zip
 
 
 
@@ -38,7 +36,6 @@ here</a> is the wget authentication reference.
 Sunday, August 13, 2017
 
 
-
 <!-- end of blog post-->
 
 
@@ -47,7 +44,6 @@ Sunday, August 13, 2017
 <h2>
 Gnuplot Every
 </h2>
-
 
 
 
@@ -69,9 +65,9 @@ Uninstall programs and remove repositories
 </h2>
 
 
-Resources <br>
-https://askubuntu.com/questions/307/how-can-ppas-be-removed <br>
-https://askubuntu.com/questions/1143/how-can-i-uninstall-software <br>
+Resources
+https://askubuntu.com/questions/307/how-can-ppas-be-removed
+https://askubuntu.com/questions/1143/how-can-i-uninstall-software
 
 
 
@@ -137,10 +133,13 @@ Python 2.7 and Beautiful Soup 4.4
 
 
 Installed requests
-$ pip install requests
+
+    pip install requests
+
 installing beautifulsoup4 through pip didn't work, I installed through
 apt
-$ sudo apt-get install python-bs4
+
+    sudo apt-get install python-bs4
 
 
 
@@ -360,15 +359,15 @@ This is very similar to the command I use to send updates to this page.
 
 
 
-a is archive, equivalent to -rlptgoD <br>
-r is recursive <br>
-l copies symlinks as symlinks <br>
-p is preserve permissions <br>
-t is preserve times <br>
-g is preserve group <br>
-o is preserver owner <br>
-n is a dry run, nothing really happens <br>
---delete clears files that were deleted in the original folder, it doesn't acumulate <br>
+a is archive, equivalent to -rlptgoD
+r is recursive
+l copies symlinks as symlinks
+p is preserve permissions
+t is preserve times
+g is preserve group
+o is preserver owner
+n is a dry run, nothing really happens
+--delete clears files that were deleted in the original folder, it doesn't acumulate
 z is compress data
 
 
@@ -858,8 +857,8 @@ changes with
 
 
 <p class="code">
-$ git fetch --all <br>
-$ git reset --hard origin/master <br>
+$ git fetch --all
+$ git reset --hard origin/master
 
 
 
@@ -869,8 +868,8 @@ that, and numerous tutorials on the web). They showed me I should not pull, inst
 
 
 <p class="code">
-$ git fetch --all <br>
-$ git merge origin/master <br>
+$ git fetch --all
+$ git merge origin/master
 
 
 or the lazy and somewhat dangerous version
@@ -911,9 +910,9 @@ To change this permanently, add the following lines to your ~/.vimrc file:
 
 
 <p class="code">
-" Set the type for the file type and override if file type <br>
-" already has detected <br>
-au BufRead,BufNewFile *.gp set filetype=gnuplot <br>
+" Set the type for the file type and override if file type
+" already has detected
+au BufRead,BufNewFile *.gp set filetype=gnuplot
 
 
 
@@ -1004,7 +1003,7 @@ A list of quotes
 
 
 If it wasn't obvious from a map, you can tell the crater is in America since, like many things America,
-it is privately owned. <br>
+it is privately owned.
 Lisa Randall, Dark Matter and Dinosaurs
 
 
@@ -1016,7 +1015,7 @@ Lisa Randall, Dark Matter and Dinosaurs
 
 
 It had long since come to my attention that people of accomplishments rarely sat back and let things
-happen to them. They went out and happened to things. <br>
+happen to them. They went out and happened to things.
 Leonardo da Vinci
 
 
@@ -1066,40 +1065,6 @@ Friday, June 23, 2017
 
 
 <!-- end of blog post-->
-
-
-
-
-<h2>
-Webpages of Physicists: A collection
-</h2>
-
-A list of references and curiosities. I started paying attention to this subject
-recently, when I started building my own personal webpage. Some are very good and served
-as inspiration. Others are pure html, no css involved. The list is heavily biased
-towards field theory and statistical mechanics practitioners.
-
-<ul>
-<li><a href="http://www.if.ufrj.br/~rodrigomp/index.html">Rodrigo Pereira, UFPE</a>, has a mountain picture too</li>
-<li><a href="http://www-thphys.physics.ox.ac.uk/people/JohnCardy/">John Cardy</a>, an example of pure html,
-has a mountain picture</li>
-<li><a href="http://www.staff.science.uu.nl/~hooft101/">Gerard t'Hooft</a>, pure html with some gifs</li>
-<li><a href="http://physics.weber.edu/schroeder/">Daniel V. Schroeder</a>, has a javascript course and little
-css actually used</li>
-<li><a href="http://www.ifsc.usp.br/~rpereira/">Rodrigo Pereira, IFSC</a>, a neat and clean page</li>
-<li><a href="http://users.physics.harvard.edu/~schwartz/index">Matthew Schwartz</a></li>
-<li><a href="http://barabasi.com/">Albert-László Barabasi</a>, top contender so far</li>
-<li><a href="http://www.ihes.fr/~duminil/">Hugo Duminil-Copin</a>, mathematician, pretty page</li>
-
-</ul>
-
-
-Wednesday, June 21, 2017
-
-
-
-<!-- end of blog post-->
-
 
 <h2>
 Finding duplicate files
@@ -1191,12 +1156,12 @@ MIN HOUR DOM MON DOW CMD
 
 
 
-These words mean:<br>
-MIN: minute <br>
-HOUR: hour <br>
-DOM: day of month <br>
-MON: month (from 1 to 12) <br>
-DOW: day of week (from 0 to 6, 0 is Sunday, on some systems it is 7) <br>
+These words mean:
+MIN: minute
+HOUR: hour
+DOM: day of month
+MON: month (from 1 to 12)
+DOW: day of week (from 0 to 6, 0 is Sunday, on some systems it is 7)
 And finally CMD is the command you want to execute at the established time.
 
 

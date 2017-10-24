@@ -18,9 +18,9 @@ For both packages, then, all I had to do was go to the
 folder where they were extracted and run the standard sequence
 
 ```
- ./configure <br>
- make <br>
- sudo make install <br>
+ ./configure
+ make
+ sudo make install
 ```
 
 Many libraries only need this to be installed and configured properly.
