@@ -1,47 +1,4 @@
 <h2>
-How to download an old commit on Bitbucket
-</h2>
-
-
-I often have this problem, because I am not really skilled at Git, and because
-I don't work at big projects, with many contributors. The solution I was looking
-for is simply how to download a project as it was in an old commit.
-This is pretty easy with Github, because the projects are publicly available, you
-simply have to do this:
-
-
-    wget https://github.com/{username}/{projectname}/archive/{sha}.zip
-
-
-
-Then I wanted to do this for my bitbucket project.
-There is a download link for each commit, but the projects are private, so we
-have to authenticate. One does not have to type the password on
-the command line, this is highly not recommended, for security reasons,
-it is better to do the following:
-
-
-    wget --user=username --ask-password https://bitbucket.org/{owner}/{repository}/get/{sha}.zip
-
-
-
-All this was learned at StackOverflow: <a href="https://stackoverflow.com/questions/13636559/how-to-download-zip-from-github-for-a-particular-commit-sha">here</a> is the Git reference,
-<a href="https://stackoverflow.com/questions/14528344/how-to-access-full-source-of-old-commit-in-bitbucket">
-here</a> is the Bitbucket download link reference and
-<a href="https://stackoverflow.com/questions/21236004/download-from-bitbucket-authorization-failed">
-here</a> is the wget authentication reference.
-
-
-
-Sunday, August 13, 2017
-
-
-<!-- end of blog post-->
-
-
-
-
-<h2>
 Gnuplot Every
 </h2>
 
@@ -53,12 +10,7 @@ Official documentation <a href="http://gnuplot.sourceforge.net/docs_4.2/node121.
 
 Wednesday, August 9, 2017
 
-
-
 <!-- end of blog post-->
-
-
-
 
 <h2>
 Uninstall programs and remove repositories
@@ -126,105 +78,6 @@ Tuesday, August 8, 2017
 
 
 
-
-<h2>
-Python 2.7 and Beautiful Soup 4.4
-</h2>
-
-
-Installed requests
-
-    pip install requests
-
-installing beautifulsoup4 through pip didn't work, I installed through
-apt
-
-    sudo apt-get install python-bs4
-
-
-
-References are
-<a href="https://www.digitalocean.com/community/tutorials/how-to-scrape-web-pages-with-beautiful-soup-and-python-3">here</a>,
-<a href="https://www.digitalocean.com/community/tutorials/how-to-work-with-web-data-using-requests-and-beautiful-soup-with-python-3">here
-</a>, and <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/">
-the official docummentation</a>.
-
-
-
-Thursday, August 3, 2017
-
-
-
-<!-- end of blog post-->
-
-
-
-
-
-<h2>
-An SSH key-based authentication
-</h2>
-
-
-Set up a new key with
-
-
-<p class="code">
-$ ssh-keygen
-
-
-
-Then provide a location (which might be just default) a passphrase to connect. The passphrase
-is optional and
-is only needed locally, this is one the reasons the key encription is more secure.
-Then link this key to the remote server with
-
-
-<p class="code">
-$ ssh-copy-id username@remote_host
-
-
-
-Done. You can connect to the remote server the same way as before, with
-
-
-<p class="code">
-$ ssh username@remote_host
-
-
-
-This way you can access a remote host, or send files to a web server
-without having to type your password every time. There is added security
-because the local password might be simple, while the private key
-is long and complicated, much more than is humanly possible.
-
-
-
-To list all ssh keys configured in a computer and
-check that you have associated the right keys, just run
-
-
-<p class="code">
-less ~/.ssh/authorized_keys
-
-
-
-If you want more details and options, it is all explained in
-<a href="https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server">
-this article</a>.
-
-
-
-Thursday, August 3, 2017
-
-
-
-<!-- end of blog post-->
-
-
-
-
-
 <h2>
 VLC shortcuts
 </h2>
@@ -249,11 +102,6 @@ Saturday, July 29, 2017
 
 
 <!-- end of blog post-->
-
-
-
-
-
 
 <h2>
 Film stills
