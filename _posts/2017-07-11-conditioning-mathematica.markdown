@@ -11,21 +11,23 @@ by making brute force combinations. Among other more subtle tricks. But today,
 we talk about brute force.
 
 First I'm going to expand a sum (this would be a good moment to have
-latex or mathml configured for my blog, I know this day would come)
+latex or mathml configured for my blog, I know this day is going to come)
 
-    s = Expand[Sum[s[i]s[i+1],{i,1,10}]^4]
+    t = Expand[Sum[s[i]s[i+1],{i,1,10}]^4]
 
 This takes the fourth product of the sum, on a string of 10 spins,
 expands and calls that s. Then I write out the following rule:
 
-    r = {s[_]^x_ :> x!! /; EvenQ[x], s[_]^x_ :> 0 /; OddQ[x], s[_] -> 0}
+```
+r = {s[_]^x_ :> x!! /; EvenQ[x], s[_]^x_ :> 0 /; OddQ[x], s[_] -> 0}
+```
 
 This is what it does: It reduces all even powers to a weird integral, then reduces all
 odd powers to zero, which is the result of a weird but odd integral. The last rule
 reduces s of anything to zero, this is the case of an odd power equal to one, which is
 a special case. Then, the following application of the rule does magic
 
-    s /. r
+    t /. r
 
 This only applies the rules when the expression satisfies a condition, which is having
 an odd or even power.

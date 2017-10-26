@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Webpages of Physicists: A Collection"
-date:   2017-10-24 12:00:00 -0200
+date:   2017-06-21 12:00:00 -0200
 categories: references
 ---
 
@@ -21,9 +21,6 @@ css actually used
 - <a href="http://barabasi.com/">Albert-László Barabasi</a>, top contender so far
 - <a href="http://www.ihes.fr/~duminil/">Hugo Duminil-Copin</a>, mathematician, pretty page
 - [Szabolcs Horvat][szabolcs]
-
-Wednesday, June 21, 2017
-
 
 
 [szabolcs]: http://szhorvat.net/pelican/
