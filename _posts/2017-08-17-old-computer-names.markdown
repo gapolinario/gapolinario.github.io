@@ -34,19 +34,17 @@ start the graphics. This was quite a story, but lead me to a path of changing an
 It was named after the Peanuts stories, Snoopy often dreams of being a WWI pilot,
 where he flies a Sopwith Camel. The Red Baron was his recurring enemy.
 
-
 redbaron: A sandisk 32GB thumb drive. It is mentioned for two reasons. It is a thumbdrive
 of large storage which helps a lot at college. And it has a customized name.
 
-<img src="deluge-desktop.png" title="Deluge desktop" alt="Deluge desktop" style="width:100%;">
+![Deluge desktop]({{ "/assets/deluge-desktop.png" | absolute_url }})
 
 deluge: Dell XPS at UFRJ, ran Ubuntu Gnome for a short while, but it was unstable, later
 changed to standard Ubuntu with Gnome Shell. Gnome was heavily customized. Named after
 Da Vinci's painting of a flood in Italy, used for my calculations in turbulence.
 Using Papyrus icons.
 
-
-<img src="byrne-desktop.png" title="Byrne desktop" alt="Byrne desktop" style="width:100%;">
+![Byrne desktop]({{ "/assets/byrne-desktop.png" | absolute_url }})
 
 byrne: HP Pavillion, my first full installation of a Linux system. Even works with
 an extra monitor (a TV, connected through HDMi, even the sound plays right).
