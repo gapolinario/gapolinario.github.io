@@ -55,16 +55,11 @@ Tuesday, August 8, 2017
 Terminator shortcuts
 </h2>
 
-
 Some of the useful shortcuts I use on Terminator are:
 
-
-<ul>
-<li> Ctrl+Shift+E or Ctrl+Shift+O to split the screen vertically/horizontally </li>
-<li> Alt+Arrows to circle through terminals </li>
-<li> Ctrl+Shift+X focuses on the currently working terminal </li>
-</ul>
-
+- Ctrl+Shift+E or Ctrl+Shift+O to split the screen vertically/horizontally
+- Alt+Arrows to circle through terminals
+- Ctrl+Shift+X focuses on the currently working terminal
 
 Tuesday, August 8, 2017
 
@@ -82,16 +77,16 @@ VLC shortcuts
 This is a list of VLC shortcuts tailored for my needs.
 
 
-<ul>
-<li> E               frame by frame </li>
-<li> F               fullscreen </li>
-<li> V               subtitles on/off </li>
-<li> Ctrl+Up/Down    volume up/down </li>
-<li> Shift+Left/Right    +/- 3 seconds </li>
-<li> Alt+Left/Right      +/- 10 seconds </li>
-<li> Ctrl+Left/Right     +/- 1 minute </li>
-<li> []=                 10% slower/10% faster/normal speed </li>
-
+| Shortcut | Function |
+|-----------------|----------------|
+| E               | frame by frame |
+| F               | fullscreen |
+| V               | subtitles on/off |
+| Ctrl+Up/Down    | volume up/down |
+| Shift+Left/Right   | +/- 3 seconds |
+| Alt+Left/Right     | +/- 10 seconds |
+| Ctrl+Left/Right    | +/- 1 minute |
+| []=                | 10% slower/10% faster/normal speed |
 
 Saturday, July 29, 2017
 
@@ -151,40 +146,12 @@ same problem. Although the OP says he had the problem using Windows 7, the accep
 has a strangely linux-looking format, it tells you to remove the "~/.config/spotify/window_position.prefs"
 file, then open Spotify again. Indeed, it worked.
 
-
-
 One more problem solved in Linux. I just don't know if the Spotify Windows user had his problem solved.
-
-
 
 Saturday, July 29, 2017
 
 
-
 <!-- end of blog post-->
-
-
-
-
-<h2>
-References on Latex Fonts
-</h2>
-
-
-<a href="https://tex.stackexchange.com/a/25251/107590">Font families and
-selecting font</a>
-
-
-
-
-Wednesday, July 26, 2017
-
-
-
-<!-- end of blog post-->
-
-
-
 
 <h2>
 Setting up a backup on Linux
