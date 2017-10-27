@@ -110,14 +110,18 @@ Great Mathematica resource
 
 
 This time I am here to report on a great place to study more about Mathematica programming.
-The <a href="http://www.mathprogramming-intro.org/">book</a> by Leonid Schifrin, extensive
+The [book][leonid] by Leonid Schifrin, extensive
 mathematica.stackexchange user, has all the details about programming logics in mathematics.
 This is different from procedural programming, and is more oriented to lists and functions,
 the book was a great resource on learning about how Mathematica is structured. It also
 has great examples, it is very easy to follow the examples alongside with Mathematica,
 and verifiy by yourself what the book is saying.
 
+[This][math-se] is also a good compilation of resources
 
+
+[leonid]: http://www.mathprogramming-intro.org/
+[math-se]: https://mathematica.stackexchange.com/questions/18/where-can-i-find-examples-of-good-mathematica-programming-practice
 
 Tuesday, July 18, 2017
 
