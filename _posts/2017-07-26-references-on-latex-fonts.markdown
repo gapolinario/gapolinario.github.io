@@ -11,6 +11,13 @@ On [this question][fonts] there is a table of fonts, font codes
   to use any font that is installed on your computer) and some commands on
 how to change the fonts for pieces of a document.
 
+| Family                | Font Name | Sample      |
+|:----------------------|:----------|:------------|
+| pcr                   | Courier | <font face = "Courier">Lazy dog over the fence</font> |
+| mdugm                 | Garamond | <font face = "Garamond">Lazy dog over the fence</font> |
+| phv                   | Helvetica | <font face = "Helvetica">Lazy dog over the fence</font> |
+| ptm                   | Times | <font face = "Times New Roman">Lazy dog over the fence</font> |
+
 If you have to change the font of a specific extract of text,
 but has to do it repeatedly, define the command:
 
@@ -24,6 +31,9 @@ If this is just a one time selection of a font, it is
 not needed to define a command, just do
 
     {\fontfamily{<familyname>}\selectfont ...}
+
+This is a trial to write in a different
+
 
 
 [fonts]: https://tex.stackexchange.com/a/25251/107590
