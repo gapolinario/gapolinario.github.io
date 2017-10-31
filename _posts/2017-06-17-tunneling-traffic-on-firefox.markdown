@@ -2,7 +2,7 @@
 layout: post
 title:  "Tunneling traffic on Firefox"
 date:   2017-06-17 12:00:00 -0200
-categories: linux
+categories: [linux, web]
 ---
 
 How can I use Firefox as if I were in another computer?

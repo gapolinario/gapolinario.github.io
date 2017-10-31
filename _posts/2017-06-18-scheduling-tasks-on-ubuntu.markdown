@@ -20,7 +20,7 @@ And finally CMD is the command you want to execute at the established time.
 Fill these fields with the appropriate numbers, or a * if the task is to be executed always, that is,
 every minute, or every hour. You can use intervals too, like 09-18.
 
-To view your crontabs, use 'crontab -l', this shows the crontabs for the user currently logged in.
+To view your crontabs, use `crontab -l`, this shows the crontabs for the user currently logged in.
 
 You can else set up intervals for the task, thus `*/10` in the minute field means every 10 minutes.
 

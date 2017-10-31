@@ -2,7 +2,7 @@
 layout: post
 title:  "Installation of C libraries in Ubuntu"
 date:   2017-06-19 12:00:00 -0200
-categories: linux
+categories: [linux, c]
 ---
 
 I downloaded the libraries from their official websites:

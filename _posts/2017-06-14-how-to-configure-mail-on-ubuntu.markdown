@@ -2,7 +2,7 @@
 layout: post
 title:  "How to Configure Mail on Ubuntu"
 date:   2017-06-14 12:00:00 -0200
-categories: linux
+categories: [linux, mail]
 ---
 
 First I had to install mailutils and ssmtp

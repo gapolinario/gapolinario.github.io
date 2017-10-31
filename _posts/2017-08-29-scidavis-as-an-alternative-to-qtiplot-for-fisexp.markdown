@@ -2,7 +2,7 @@
 layout: post
 title:  "SciDavis as an alternative to QtiPlot for FisExp"
 date:   2017-08-29 12:00:00 -0200
-categories: [fisexp, projects]
+categories: fisexp
 ---
 
 QtiPlot has a restricted trial version and this is not

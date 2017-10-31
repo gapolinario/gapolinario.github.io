@@ -2,7 +2,7 @@
 layout: post
 title:  "Customize your Command Line"
 date:   2017-06-18 13:00:00 -0200
-categories: linux
+categories: [linux, cli]
 ---
 
 The PS1 variables stores the look of you command line prompt, you can take a look at its format,

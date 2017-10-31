@@ -2,17 +2,15 @@
 layout: post
 title:  "Installing Python and Beautiful Soup"
 date:   2017-08-03 12:00:00 -0200
-categories: references
+categories: python
 ---
-
 
 First I installed the requests library
 
     pip install requests
 
-installing beautifulsoup4 through pip didn't work, I installed through
-apt
-
+installing `beautifulsoup4` through `pip` didn't work, I installed through
+`apt`
     sudo apt-get install python-bs4
 
 References are

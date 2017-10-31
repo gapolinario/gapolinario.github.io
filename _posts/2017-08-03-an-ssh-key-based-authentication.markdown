@@ -2,7 +2,7 @@
 layout: post
 title:  "An SSH key based authentication"
 date:   2017-08-03 07:00:00 -0200
-categories: ssh
+categories: linux
 ---
 
 Set up a new key with

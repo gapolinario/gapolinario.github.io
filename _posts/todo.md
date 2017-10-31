@@ -1,6 +1,5 @@
 ### General
 - Links in markdown format
-- Verify tags
 - Review text of posts
 - Continue open projects
 - Now I can make series of posts under the same tag

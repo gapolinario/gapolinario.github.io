@@ -2,7 +2,7 @@
 layout: post
 title:  "Reports on a failure: BB on Linux"
 date:   2017-07-18 09:00:00 -0200
-categories: mathematica
+categories: linux
 ---
 
 I tried to install the security module for Banco do Brasil in Linux. They have an executable,

@@ -2,7 +2,7 @@
 layout: post
 title:  "Old Computer Names"
 date:   2017-08-17 12:00:00 -0200
-categories: linux
+categories: [references, linux]
 ---
 
 olinda: Dell Inspiron 14, my first laptop. Named after the city in Italo Calvino's
