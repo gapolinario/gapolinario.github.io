@@ -19,7 +19,8 @@ And to display size of a single folder, or file, use
 
 One nice trick is how to display size of all folders
 
-    du -sh */
-
+```
+du -sh */
+```
 
 Take a look at the manual entries for df and du for more information.
