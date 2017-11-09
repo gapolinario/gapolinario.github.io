@@ -2,7 +2,7 @@
 layout: post
 title:  "Binary Files on Mathematica and Numpy"
 date:   2017-09-24 12:00:00 -0200
-categories: [mathematica, python]
+categories: [python, mathematica]
 ---
 
 Here is a program to assess that `BinaryReadList` has interpreted my data
