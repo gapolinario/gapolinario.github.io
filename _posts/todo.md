@@ -8,7 +8,6 @@
 - How to discover family name for any font
 - How to install fonts for latex
 
-
 ### 2017-07-14-Using Wolframscripts
 - review text
 

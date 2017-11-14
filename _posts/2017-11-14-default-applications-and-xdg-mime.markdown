@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Default applications and xdg-mime"
-date:   2017-11-14 12:00:00 -0200
+date:   2017-11-14 18:00:00 -0200
 categories: linux
 ---
 
@@ -18,6 +18,6 @@ or to query the filetype. For instance
 Returns `image/jpeg`, this is a mimetipe and is
 used as above to query the default application.
 
-A list of mime-types is available [here][mime]
+A list of mime-types is available [here][mime].
 
 [mime]: https://www.freeformatter.com/mime-types-list.html
