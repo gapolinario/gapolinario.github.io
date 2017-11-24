@@ -16,9 +16,13 @@ Proceed safely.
 The following one liner converts all files in a folder
 to mp3 format. Just navigate to that folder and run it.
 
-    for i in *; do name=$(echo "$i" | sed 's/\.\w\+/\.mp3/'); ffmpeg -i "$i" "$name"; done
+    for i in *; do name=$(echo "$i" | sed 's/\.\w\+/\.mp3/'); ffmpeg -y -i "$i" "$name"; done
 
 *I might add a $ to mean "end of file", maybe it is useful*
+
+The whole process might take a while, so there is a `-y` option, which rewrites
+files that already exist. The converse option, `-n`, does not rewrite and
+stops the program. Maybe this is just what I needed.
 
 This is useful for compatibility reasons, not everybody can play an opus or ogg format.
 
