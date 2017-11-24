@@ -31,6 +31,10 @@ characters and replaces the whole name of the file with just the extension.
 `uniq` selects only unique entries in the file list. I don't know how this behaves
 for filenames with more than one ".".
 
+In the end, I have converted and would like to remove all files that are not of the desired extension, mp3 in this case, then run:
+
+    ls | sed '/[^.]\+\.mp3/d' | xargs -d"\n" rm
+
 For completeness, I did some research on which audio formats are lossy or lossless.
 Lossy means the compression algorithm discards some data of the original file,
 whereas lossless formats do not, albeit reduce the file to a manageable size.
