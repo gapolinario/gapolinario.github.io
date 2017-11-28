@@ -21,6 +21,8 @@ css actually used
 - <a href="http://barabasi.com/">Albert-László Barabasi</a>, top contender so far
 - <a href="http://www.ihes.fr/~duminil/">Hugo Duminil-Copin</a>, mathematician, pretty page
 - [Szabolcs Horvat][szabolcs]
+- [Celina M. H. de Figueiredo][celina], great website and influential brazilian researcher in graphs and complexity, did her DSc at UFRJ
 
 
 [szabolcs]: http://szhorvat.net/pelican/
+[celina]: http://www.cos.ufrj.br/~celina/
