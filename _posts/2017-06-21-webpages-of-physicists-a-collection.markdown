@@ -20,9 +20,13 @@ css actually used
 - <a href="http://users.physics.harvard.edu/~schwartz/index">Matthew Schwartz</a>
 - <a href="http://barabasi.com/">Albert-László Barabasi</a>, top contender so far
 - <a href="http://www.ihes.fr/~duminil/">Hugo Duminil-Copin</a>, mathematician, pretty page
-- [Szabolcs Horvat][szabolcs]
+- [Szabolcs Horvat][szabolcs], the Mathematica guy.
 - [Celina M. H. de Figueiredo][celina], great website and influential brazilian researcher in graphs and complexity, did her DSc at UFRJ
+- [Carneggie Melon U. Physics Dept.][carneggie], not a physicist's website, but a very organized
+  institional website, easy to navigate through areas and get to know each researcher's work.
+  Great interface for students to get to know the university.
 
 
 [szabolcs]: http://szhorvat.net/pelican/
 [celina]: http://www.cos.ufrj.br/~celina/
+[carneggie]: https://www.cmu.edu/physics/research/index.html
