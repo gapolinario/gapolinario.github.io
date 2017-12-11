@@ -75,3 +75,7 @@ Pablo Neruda, We Are Many, 1967
 Scott Aaronson, [NP-complete Problems and Physical Reality][npc-aar]
 
 [npc-aar]: https://www.scottaaronson.com/papers/npcomplete.pdf
+
+>	I remember simple things, I remember how I could not understand simple things, this makes me a teacher.
+
+H. Khudaverdyan, found in Group Theory Nut, p. xviii, see A. Borovik, Mathematics under the Microscope, p. 61
