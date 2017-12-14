@@ -79,3 +79,13 @@ Scott Aaronson, [NP-complete Problems and Physical Reality][npc-aar]
 >	I remember simple things, I remember how I could not understand simple things, this makes me a teacher.
 
 H. Khudaverdyan, found in Group Theory Nut, p. xviii, see A. Borovik, Mathematics under the Microscope, p. 61
+
+> 	Stanley Kubrick shares with Orson Welles and Carl Dreyer the
+	role of the Great Confounder — remaining supremely himself
+	while frustrating every attempt to anticipate his next move
+	or to categorize it once it registers.
+
+Jonathan Rosenbaum, in the Full Metal Jacket [review][rosenbaum-kubrick]
+
+[rosenbaum-kubrick]: http://www.jonathanrosenbaum.net/2014/06/full-metal-jacket/
+
