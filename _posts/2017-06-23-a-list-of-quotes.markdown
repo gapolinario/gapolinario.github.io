@@ -89,3 +89,16 @@ Jonathan Rosenbaum, in the Full Metal Jacket [review][rosenbaum-kubrick]
 
 [rosenbaum-kubrick]: http://www.jonathanrosenbaum.net/2014/06/full-metal-jacket/
 
+>       And there's something intriguing about the way that we as humans can
+        pull ourselves outside of system, and this actually has been used by
+        some to suggest that this is why human consciouness is actually much
+        more than just an analog computer, because how can an analog computer
+        pull itself out of the system that it is stuck within, yet we seem to
+        be able to shift from outside the system to see meaning of that
+        sentence, go inside of the system, prove that it can't be proved
+        (...).
+
+Marcus du Sautoy, in a Numberphile video on
+[Gödel's Incompleteness Theorem][godel-marcus].
+
+[godel-marcus]: https://www.youtube.com/watch?v=mccoBBf0VDM&feature=youtu.be
