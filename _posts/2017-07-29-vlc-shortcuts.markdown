@@ -12,6 +12,7 @@ This is a list of VLC shortcuts tailored for my needs.
 | E               | frame by frame |
 | F               | fullscreen |
 | V               | subtitles on/off |
+| G/H             | subtitle delay/advance |
 | Ctrl+Up/Down    | volume up/down |
 | Shift+Left/Right   | +/- 3 seconds |
 | Alt+Left/Right     | +/- 10 seconds |

@@ -25,8 +25,12 @@ css actually used
 - [Carneggie Melon U. Physics Dept.][carneggie], not a physicist's website, but a very organized
   institional website, easy to navigate through areas and get to know each researcher's work.
   Great interface for students to get to know the university.
+- [Marcin Kotowski][kotowski]: Pretty and simple matematician page
+- [Piotr Migdal][pmigdal]: Quantum physics, deep learning
 
 
 [szabolcs]: http://szhorvat.net/pelican/
 [celina]: http://www.cos.ufrj.br/~celina/
 [carneggie]: https://www.cmu.edu/physics/research/index.html
+[pmigdal]: http://p.migdal.pl/
+[kotowski]: https://www.math.toronto.edu/~marcin/
