@@ -17,3 +17,10 @@
 
 ### 2017-08-17-Git summary
 - Review text
+
+### Add disqus
+http://sgeos.github.io/jekyll/disqus/2016/02/15/adding-disqus-to-a-jekyll-blog.html
+https://keirwhitaker.com/blog/adding-comments-to-jekyll-blog/
+https://medium.com/@balogic/adding-comments-part-to-your-jekyll-blog-6a8fccb7e634
+https://disqus.com/admin/install/platforms/jekyll/
+http://www.perfectlyrandom.org/2014/06/29/adding-disqus-to-your-jekyll-powered-github-pages/

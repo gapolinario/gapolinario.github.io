@@ -5,9 +5,6 @@ date:   2017-12-24 22:00:00 -0200
 categories: quantum
 ---
 
-Notes on [Kalai's ICM Third Problem][kalai-voting]:
-Are Quantum computers feasible?
-
 The matematician Gil Kalai once again [comments][kalai-quantum]
 on his disbelief in the feasibility of quantum computers.
 
