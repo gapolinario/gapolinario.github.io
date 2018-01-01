@@ -24,3 +24,5 @@ https://keirwhitaker.com/blog/adding-comments-to-jekyll-blog/
 https://medium.com/@balogic/adding-comments-part-to-your-jekyll-blog-6a8fccb7e634
 https://disqus.com/admin/install/platforms/jekyll/
 http://www.perfectlyrandom.org/2014/06/29/adding-disqus-to-your-jekyll-powered-github-pages/
+
+### 2017-06-23 is QUOTES

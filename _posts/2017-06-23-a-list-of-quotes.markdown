@@ -102,3 +102,13 @@ Marcus du Sautoy, in a Numberphile video on
 [Gödel's Incompleteness Theorem][godel-marcus].
 
 [godel-marcus]: https://www.youtube.com/watch?v=mccoBBf0VDM&feature=youtu.be
+
+>      I don't know. I think I'm sick. And I don't know if my ailment has a name.
+       It's just me sitting and staring at the Internet or the television...
+       for long periods of time interspersed by trying to not do that.
+       And then lying about what I've been doing.
+       Then I'll get so excited about something that the excitement overwhelms me...
+       and I can't sleep or do anything. And I just am in love with everything...
+       but can't figure out how to make myself work in the world.
+
+Brooke, in Mistress America (2015, dir: Noah Baumbach)
