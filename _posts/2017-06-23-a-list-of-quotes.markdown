@@ -112,3 +112,16 @@ Marcus du Sautoy, in a Numberphile video on
        but can't figure out how to make myself work in the world.
 
 Brooke, in Mistress America (2015, dir: Noah Baumbach)
+
+> 	You might well ask yourself: Why? Why do you do all of that?
+	Why don't you just get it right the first time?
+	Well, the problem is, we know we're gonna be wrong, and ...
+	if we don't allow ourselves to be wrong, we're never gonna
+	do anything new, we're just gonna rely on things that we know
+	work. So, for us, making mistakes is an essential part of
+	our process, we're not embarassed by it, in fact, we plan for it.
+
+Pete Docter, Westminster Town Hall (2015), extract from [this video essay][edit-animated]
+
+[edit-animated]: https://www.youtube.com/watch?v=OIV9IjulVi8
+
