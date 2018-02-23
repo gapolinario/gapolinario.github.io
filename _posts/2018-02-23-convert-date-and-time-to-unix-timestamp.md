@@ -7,7 +7,7 @@ categories: linux
 
 I often use the [Alert Bot][alert] on Telegram,
 it is very useful but when I need to send a message at a specific time,
-I often use and approximation.
+I often use an approximate time.
 
 To be more precise, run to a linux terminal and type
 
