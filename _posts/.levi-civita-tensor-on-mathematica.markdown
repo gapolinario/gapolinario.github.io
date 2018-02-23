@@ -5,6 +5,10 @@ date:   2018-01-08 12:00:00 -0200
 categories: mathematica
 ---
 
+I had the following guess:
+
+$ \sum_{i,j,k} \varepsilon_{ijk} D_{l_1 i} D_{l_2 j} D_{l_3 k} = \det D \varepsilon_{l_1 l_2 l_3} $
+
 Mathematica has a d-dimensional Levi Civita tensor defined as
 
 ```
