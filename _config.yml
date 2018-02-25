@@ -24,7 +24,6 @@ github_username:  gapolinario
 
 # Build settings
 markdown: kramdown
-#markdown: redcarpet # for use with mathjax
 theme: minima
 plugins:
   - jekyll-feed
