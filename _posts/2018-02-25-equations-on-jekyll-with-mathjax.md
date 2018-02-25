@@ -21,5 +21,3 @@ $$a^2+b^2=c^2$$
 \\[ \sin(x^2) +\cos(x^2) = 1 \\]
 
 [deep]: http://deeplearningthesis.com/jekyll/mathematics/programming/2018/01/14/setting-up-jekyll.html
-
-{% include disqus.html %}
