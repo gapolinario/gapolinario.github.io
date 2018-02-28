@@ -3,6 +3,7 @@ layout: post
 title:  "Notes on Landau asymptotic notation"
 date:   2018-02-27 20:00:00 -0200
 categories: physics
+math: true
 ---
 
 These notes are based on this [Khan academy][khan]
