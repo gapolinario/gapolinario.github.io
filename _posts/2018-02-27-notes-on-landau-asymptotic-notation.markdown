@@ -44,4 +44,13 @@ Notice also that $\Theta(f(n))$ implies
 both $O(f(n))$ (an upper bound)
 and $\Omega(f(n))$ (a lower bound).
 
+The course gives examples of algorithm
+running times, and these are very clear.
+But they are always in the limit of
+$n$ very large.
+Physicists also tend to use this notation
+for vanishingly small quantities, like
+$\varepsilon$ approaching zero,
+where large and small exponents trade places.
+
 [khan]: https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/asymptotic-notation
