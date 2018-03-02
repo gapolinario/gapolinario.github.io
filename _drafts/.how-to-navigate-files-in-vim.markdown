@@ -11,9 +11,10 @@ There is a [Vim wiki][wiki], the link goes specifically to the file explorer pag
 
 `Ctrl-6` takes you back and forth to explore and file window.
 
-This is my endeavor to find a text editor that is light.
+This is my endeavor to find a text editor that is light, easy and open source.
 Atom is impossibly heavy, but plain text editors cannot be that heavy,
 that is an absurd.
+Sublime works magically but it is not open source.
 
 Another thing I would like to have in Vim is autocomplete for Latex/HTML.
 
