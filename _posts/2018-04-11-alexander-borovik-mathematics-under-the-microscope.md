@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Alexander Borovik's Mathematics Under the Microscope"
-date:   2017-06-19 12:00:00 -0200
+date:   2018-04-11 12:00:00 -0200
 categories: [math, literature]
 ---
 
@@ -12,3 +12,7 @@ Hermann Weyl
 
 I come from childhood as from a homeland.
 Antoine de Saint-Exupéry, Pilot de Guerre
+
+I have given up on this book, but the thought of always
+extracting as much as possible from the simplest examples
+must remain.
