@@ -16,10 +16,10 @@
 title: Gabriel Apolinário
 email: gapolinario@if.ufrj.br
 description: >- # this means to ignore newlines until "baseurl:"
-  My github projects and a sandbox blog for any theme I would like to discuss.
+  My blog on math, physics, programming, linux, and maybe other topics
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
+twitter_username: gabapolinario
 github_username:  gapolinario
 
 # Build settings
