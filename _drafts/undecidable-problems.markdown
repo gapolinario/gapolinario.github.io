@@ -9,6 +9,8 @@ math: true
 A list of undecidable problems.
 These problems cannot be efficiently solved on a computer.
 
+Barahona demonstrated
+
 Is the 3D Ising Model undecidable or NP-complete?, Sorin Istrail
 
 Graph-Isomorphism has an n^log n^O(1) algorithm,
@@ -81,8 +83,6 @@ A mention of Wilf, What is an Answer, would also
 be suited, where he comments that there might be answers
 which are more complex to evaluate than brute force
 examination of cases, directly.
-
-
 
 Article is [here][istrail]
 
