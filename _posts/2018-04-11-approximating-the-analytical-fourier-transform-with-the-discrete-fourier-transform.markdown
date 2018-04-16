@@ -82,7 +82,7 @@ simple matrix multiplication,
 this algorithm for approximating the analytical fourier transform also takes
 only $\mathcal{O}(N \log N)$ time.
 
-The approximation works well for times up to $t << 1/\Delta t$
+The approximation works well for frequencies up to $\omega << 1/\Delta t$
 
 This comparison is depicted for the gate function:
 
