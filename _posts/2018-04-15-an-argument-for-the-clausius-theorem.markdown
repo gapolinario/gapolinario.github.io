@@ -193,7 +193,7 @@ whereas in a Carnot cycle we would have
 $T_2^{min}/T_1^{max}$,
 which is the smallest such ratio.
 And we know the average cannot be smaller than this minimum,
-hence the efficiency of this new cycle is larger than
+hence the efficiency of this new cycle is smaller than
 that of a Carnot cycle with the same maximal and minimal temperatures.
 
 The efficiency of a cycle built of only adiabatic and
