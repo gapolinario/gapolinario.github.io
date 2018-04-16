@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "An argument for the Clausius theorem"
-date:   2018-04-15 22:00:00 -0200
+date:   2018-04-15 12:00:00 -0200
 categories: [physics, thermodynamics]
 ---
 
