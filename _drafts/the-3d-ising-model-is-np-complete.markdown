@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Undecidable Problems"
+title:  "The 3D Ising Model is NP complete"
 date:   2017-11-09 13:00:00 -0200
 categories: physics
 math: true
