@@ -16,6 +16,17 @@ though with a confusion on what is really NP-complete,
 since he did not talk of a decision problem,
 but of a function problem
 
+Actually, Istrail seems to misuse the term NP-complete by applying it to function problems. Finding the ground state of an Ising model is an NP optimization problem, and natural decision versions are trivially in NP, so the real challenge is to show NP-hardness. Barahona does this for the 3D lattice, and Istrail does it for more general non-planar lattices
+- From CS Theory
+
+https://cstheory.stackexchange.com/questions/27417/which-complexity-information-of-ising-model-is-more-important
+
+This is the other question
+
+https://math.stackexchange.com/questions/1052992/np-completeness-of-ising-model?rq=1
+
+
+
 A list of undecidable problems.
 These problems cannot be efficiently solved on a computer.
 
@@ -187,3 +198,25 @@ The Stanford course has a section on the philosophical implications of P=NP http
 https://pdfs.semanticscholar.org/5e99/c1fb44e251464e2928f00766104708ef61fe.pdf
 
 http://go.galegroup.com/ps/i.do?id=GALE%7CA62924785&sid=googleScholar&v=2.1&it=r&linkaccess=fulltext&issn=00368075&p=AONE&sw=w&authCount=1&u=capes&selfRedirect=true
+
+
+From Giuseppe Mussardo, solution of 2D Ising model would be
+6.1.4, with the infinite version in 6.1.5, where we have to
+diagonalize a $2^n \times 2^n$ matrix, here lies the source of
+the problem. This would give a solution.
+And maybe verifying that a set of eigenvalues is indeed eigenvalue of
+the VW (or Z) matrix is easy (or polynomial), this would
+be the significance of the Barahona-Istrail demonstration.
+
+A function problem is a problem where the desired output
+may not be a single bit, but a set of 2 or more elements.
+
+There might be a relation with #P problems, see stack exchange CS Theory and
+Complexity Zoo
+
+
+
+https://www.nature.com/articles/nphys3595
+
+CIPRA: https://www.siam.org/pdf/news/654.pdf
+
