@@ -27,6 +27,7 @@ css actually used
   Great interface for students to get to know the university.
 - [Marcin Kotowski][kotowski]: Pretty and simple matematician page
 - [Piotr Migdal][pmigdal]: Quantum physics, deep learning
+- [François G. Schmitt][fgschmitt]: Turbulence, mentions current status of past PhD students
 
 
 [szabolcs]: http://szhorvat.net/pelican/
@@ -34,3 +35,4 @@ css actually used
 [carneggie]: https://www.cmu.edu/physics/research/index.html
 [pmigdal]: http://p.migdal.pl/
 [kotowski]: https://www.math.toronto.edu/~marcin/
+[fgschmitt]: http://www.fg-schmitt.fr/
