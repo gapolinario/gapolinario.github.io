@@ -7,7 +7,7 @@ categories: math
 
 This is a very non-rigorous discussion on how to do a change of variables in
 a stochastic integral.
-I'm going to derive it in two different ways.
+I'm going to derive it in three different ways.
 
 We would like to do the following stochastic integral:
 
@@ -44,10 +44,12 @@ match.
 
 Since $J_{\alpha}$ is a constant, we can pull it out of the integral and obtain
 
-$ W_t = J_{\alpha} \int_0^{\alpha t} dW_s = J_{\alpha} dW_{\alpha t} $
+$ W_t = J_{\alpha} \int_0^{\alpha t} dW_s = J_{\alpha} W_{\alpha t} $
 
 In order to have the same distribution in both sides,
-we need to have $J_{\alpha} = 1/\sqrt{\alpha}$,
+we require the standard deviations of both sides
+to be the same, thus
+we need $J_{\alpha} = 1/\sqrt{\alpha}$,
 
 then
 
@@ -68,11 +70,11 @@ variables
 
 We know that
 
-$\mathbb{E}[\eta_{s_1} \eta_{s_2}] = \delta(s_1-s_2) = \delta(\alpha(t_1-t_2)) = \frac{1}{\alpha} \delta(t_1 - t_2) $
+$\mathbb{E}[\eta_{s_1} \eta_{s_2}] = \delta(s_1-s_2) = \delta(\alpha(t_1-t_2)) = \frac{1}{|\alpha|} \delta(t_1 - t_2) $
 
 And from this we can argue that
 
-$ \eta_s = \frac{1}{\sqrt{\alpha}} \eta_t $
+$ \eta_s = \frac{1}{\sqrt{|\alpha|}} \eta_t $
 
 In the integral, we have
 
@@ -86,9 +88,9 @@ hence demonstrating the required change of variables.
 
 Simply require
 
-$ \mathbb{E}[W_t] = \mathbb{E}[J W_{s(t)}] $
+$ \mathbb{E}[W_t^2] = \mathbb{E}[J_{\alpha}^2 W_{s(t)}^2] $
 
-$ t = J^2 s(t) $
+$ t = J_{\alpha}^2 s(t) $
 
 $ J = \sqrt{t / s(t)} = 1/\sqrt{\alpha} $
 
