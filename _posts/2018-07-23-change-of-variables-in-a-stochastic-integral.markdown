@@ -70,11 +70,11 @@ variables
 
 We know that
 
-$\mathbb{E}[\eta_{s_1} \eta_{s_2}] = \delta(s_1-s_2) = \delta(\alpha(t_1-t_2)) = \frac{1}{|\alpha|} \delta(t_1 - t_2) $
+$\mathbb{E}[\eta_{s_1} \eta_{s_2}] = \delta(s_1-s_2) = \delta(\alpha(t_1-t_2)) = \frac{1}{\lvert\alpha\lvert} \delta(t_1 - t_2) $
 
 And from this we can argue that
 
-$ \eta_s = \frac{1}{\sqrt{|\alpha|}} \eta_t $
+$ \eta_s = \frac{1}{\sqrt{\lvert\alpha\lvert}} \eta_t $
 
 In the integral, we have
 
@@ -90,7 +90,7 @@ Simply require
 
 $ \mathbb{E}[W_t^2] = \mathbb{E}[J_{\alpha}^2 W_{s(t)}^2] $
 
-$ t = J_{\alpha}^2 s(t) $
+$ t = J_{\alpha}^2 \ s(t) $
 
 $ J = \sqrt{t / s(t)} = 1/\sqrt{\alpha} $
 
