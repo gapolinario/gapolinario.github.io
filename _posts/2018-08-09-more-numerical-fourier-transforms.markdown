@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "More Numerical Fourier Transforms"
-date:   2018-08-09 12:00:00 -0200
+date:   2018-08-09 14:00:00 -0200
 categories: math
 math: true
 ---

@@ -92,7 +92,7 @@ $ \mathbb{E}[W_t^2] = \mathbb{E}[J_{\alpha}^2 W_{s(t)}^2] $
 
 $ t = J_{\alpha}^2 \ s(t) $
 
-$ J = \sqrt{t / s(t)} = 1/\sqrt{\alpha} $
+$ J_{\alpha} = \sqrt{t / s(t)} = 1/\sqrt{\alpha} $
 
 This last method looks more general, but it is not at
 all rigorous, the final result is correct,
