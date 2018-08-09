@@ -74,7 +74,7 @@ $$
 Hence we find
 
 $$
-    \tilde f(\omega_k) \simeq e^{-i \omega_k t_0} \Delta t X_k
+    \tilde f(\omega_k) \simeq e^{-i \omega_k t_0} \ \Delta t \ X_k
 $$
 
 Since there are algorithms for the DFT which only take $\mathcal{O}(N \log N)$ time, instead of $\mathcal{O}(N^2)$ for
