@@ -6,4 +6,6 @@ categories: math, physics
 ---
 
 
+
+
 [euler]: https://en.wikipedia.org/wiki/Euler_method
