@@ -39,7 +39,7 @@ We can measure the error $\varepsilon$ from this approximation
 as the difference between the actual and approximated values,
 the error relative to the actual value is going to be
 
-$$ \frac{| TC - TC' |}{TC} = \frac{|TF - 50|}{10(TF - 32)} $$
+$$ \frac{| TC - TC' |}{TC} = \frac{|TF - 50|}{10 |TF - 32|} $$
 
 This is the relative difference between the actual temperature
 and the estimated temperature, and for a wide range of values,
@@ -56,15 +56,15 @@ is $10\%$, hence even very high temperatures work very well.
 
 The inverse approximation, which is to take the exact Fahrenheit temperature
 
-$$ TF = 1.8 TC +32 $$
+$$ TF = 1.8 \ TC +32 $$
 
 for the approximation
 
-$$ TF' = 2 TC + 30 $$
+$$ TF' = 2 \ TC + 30 $$
 
 does not work so well. The relative error is
 
-$$ \frac{| TF - TF' |}{TF} = \frac{|10 - TC|}{160 + 9 TC} $$
+$$ \frac{| TF - TF' |}{TF} = \frac{|10 - TC|}{160 + 9 \ TC} $$
 
 But this time the error must be below $5.3\%$ to correspond
 to a similar error as that in the Celsius scale,

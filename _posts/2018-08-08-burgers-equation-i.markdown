@@ -16,7 +16,7 @@ It was proposed as a one-dimensional version of Navier-Stokes
 equation by Harry Bateman in 1915 and studied by Johannes Martinus Burgers in 1948.
 The equation describes how the field $u(x,t)$ evolves in time
 
-$$ \frac{d u}{dt} +  u \frac{d u}{dx} = \nu \frac{d^2 u}{dx^2} $$
+$$ \frac{\partial u}{\partial t} +  u \frac{\partial u}{\partial x} = \nu \frac{\partial ^2 u}{\partial x^2} $$
 
 The parameter $\nu$ is the diffusion coefficient, or kinematic viscosity.
 
@@ -55,7 +55,10 @@ $$ \frac{1}{\Delta t} \left(
 e^{\nu k^2 (t_n + \Delta t)} \tilde u^{n+1}_k - e^{\nu k^2 t_n} \tilde u^{n}_k \right)
  = e^{\nu k^2 t_n} \tilde F^n_k $$
  
-$$ \tilde u^{n+1}_k = (\tilde u^{n}_k + \Delta t \ \tilde F^n_k ) e^{-\nu k^2 \delta t} $$
+$$ \tilde u^{n+1}_k = (\tilde u^{n}_k + \Delta t \ \tilde F^n_k ) e^{-\nu k^2 \Delta t} $$
 
+A useful reference on this method is the [Canuto *et al*][canuto] book,
+appendix D.3
 
 [euler]: https://en.wikipedia.org/wiki/Euler_method
+[canuto]: https://www.springer.com/gp/book/9783540307259
