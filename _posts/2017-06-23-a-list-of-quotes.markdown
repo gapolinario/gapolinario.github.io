@@ -5,6 +5,15 @@ date:   2017-06-23 12:00:00 -0200
 categories: references
 ---
 
+> Being wrong isn’t a bad thing like they teach you in school. It is an opportunity to learn something
+
+Richard Feynman
+
+> Logician: Another syllogism. All cats
+ die. Socrates is dead. Therefore Socrates is a cat.
+
+Eugene Ionesco, Rhinoceros
+
 > If it wasn't obvious from a map, you can tell the crater is in America since, like many things american,
   it is privately owned.
 
