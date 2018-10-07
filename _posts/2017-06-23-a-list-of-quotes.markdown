@@ -5,6 +5,18 @@ date:   2017-06-23 12:00:00 -0200
 categories: references
 ---
 
+> Lemmas do the work in mathematics: Theorems, like management, just take the credit.
+
+Paul Taylor
+
+> There are good reasons why the theorems should all be easy and the definitions hard.
+
+Michael Spivak, preface to “Calculus on Manifolds”
+
+> Everything's got a moral if only you can find it
+
+Lewis Carroll, Alice's Adventures in Wonderland
+
 > Being wrong isn’t a bad thing like they teach you in school. It is an opportunity to learn something
 
 Richard Feynman
@@ -59,7 +71,6 @@ Michael Harris p.30, p.34
 João Moreira Salles, em entrevista à [Bravo][bravo-joao]
 
 [bravo-joao]: https://medium.com/revista-bravo/uma-das-maldi%C3%A7%C3%B5es-do-brasil-%C3%A9-a-manuten%C3%A7%C3%A3o-de-privil%C3%A9gios-acdd7bf9cfd1
-
 
 > According to Tishby, who views the information bottleneck as a fundamental principle behind learning, whether you’re an algorithm, a housefly, a conscious being, or a physics calculation of emergent behavior, that long-awaited answer “is that the most important part of learning is actually forgetting.”
 
