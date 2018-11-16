@@ -5,6 +5,11 @@ date:   2017-06-23 12:00:00 -0200
 categories: references
 ---
 
+> One day Alice came to a fork in the road and saw a Cheshire cat in a tree. ‘Which road do I take?’ she asked. ‘Where do you want to go?’ was his response. ‘I don’t know,’ Alice answered. ‘Then,’ said the cat, ‘it doesn’t matter.
+
+Lewis Carroll
+
+
 > Lemmas do the work in mathematics: Theorems, like management, just take the credit.
 
 Paul Taylor
