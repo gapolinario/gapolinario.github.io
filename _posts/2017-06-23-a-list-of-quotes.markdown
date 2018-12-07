@@ -5,6 +5,16 @@ date:   2017-06-23 12:00:00 -0200
 categories: references
 ---
 
+> Thus, what really matters is _subsidiarity_ rather than sovereignty. 
+
+Timothy Gowers, [$\\in$][in]
+
+[in]: https://gowers.wordpress.com/2016/06/02/6172/#more-6172
+
+> We haven’t time to spare to hear whether it was between Italy and Sicily that he ran into a storm or somewhere outside the world we know–when every day we’re running into our own storms, spiritual storms, and driven by vice into all the troubles that Ulysses ever knew.
+
+Seneca
+
 > Lemmas do the work in mathematics: Theorems, like management, just take the credit.
 
 Paul Taylor
@@ -21,15 +31,12 @@ Lewis Carroll, Alice's Adventures in Wonderland
 
 Richard Feynman
 
-> Logician: Another syllogism. All cats
- die. Socrates is dead. Therefore Socrates is a cat.
+> Logician: Another syllogism. All cats die. Socrates is dead. Therefore Socrates is a cat.
 
 Eugene Ionesco, Rhinoceros
 
 > If it wasn't obvious from a map, you can tell the crater is in America since, like many things american,
   it is privately owned.
-
-Lisa Randall, Dark Matter and Dinosaurs
 
 > In 1980, the group led by Walter and Luiz Alvarez proposed that a big meteoroid had collided with the Earth
   and rained down rare earth metals, including iridium.
@@ -46,10 +53,8 @@ Leonardo da Vinci
 Paulo Mendes da Rocha, arquiteto brasileiro
 
 >	Do I contradict myself?
-
->	Very well then I contradict myself,
-
->	(I am large, I contain multitudes.)
+	Very well then I contradict myself,
+	(I am large, I contain multitudes.)
 
 Walt Whitman, “Song of myself“, 1855
 
@@ -80,12 +85,9 @@ a quote that links closely to the Landauer principle, known to physicists.
 [quantaBottleneck]: https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/
 
 >	When everything seems to be set
-
->	to show me off as a man of intelligence,
-
->	the fool I keep concealed on my person
-
->	takes over my talk and occupies my mouth
+	to show me off as a man of intelligence,
+	the fool I keep concealed on my person
+	takes over my talk and occupies my mouth
 
 Pablo Neruda, We Are Many, 1967
 

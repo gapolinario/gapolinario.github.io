@@ -27,14 +27,10 @@ n is a dry run, nothing really happens
 --delete clears files that were deleted in the original folder, it doesn't acumulate
 z is compress data
 
-
-
 I added an alias to the ~/.bashrc file to make backup even easier. Just add the line:
 
 
     alias backup="rsync -av /home/ /media/gabriel/.../backup/ --delete"
-
-
 
 Then all you have to do is run "backup" and the computer will do the task.
 Remember to apply the changes to the bashrc with "source ~/.bashrc"
