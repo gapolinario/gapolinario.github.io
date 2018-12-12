@@ -5,6 +5,7 @@ date:   2017-06-23 12:00:00 -0200
 categories: references
 ---
 
+
 > Thus, what really matters is _subsidiarity_ rather than sovereignty. 
 
 Timothy Gowers, [$\\in$][in]
@@ -14,6 +15,12 @@ Timothy Gowers, [$\\in$][in]
 > We haven’t time to spare to hear whether it was between Italy and Sicily that he ran into a storm or somewhere outside the world we know–when every day we’re running into our own storms, spiritual storms, and driven by vice into all the troubles that Ulysses ever knew.
 
 Seneca
+
+> One day Alice came to a fork in the road and saw a Cheshire cat in a tree. ‘Which road do I take?’ she asked. ‘Where do you want to go?’ was his response. ‘I don’t know,’ Alice answered. ‘Then,’ said the cat, ‘it doesn’t matter.
+
+Lewis Carroll
+
+
 
 > Lemmas do the work in mathematics: Theorems, like management, just take the credit.
 
