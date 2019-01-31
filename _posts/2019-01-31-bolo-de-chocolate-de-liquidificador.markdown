@@ -5,8 +5,6 @@ date:   2019-01-31 16:00:00 -0200
 categories: receita
 ---
 
-# Bolo de Chocolate de Liquidificador
-
 ## Ingredientes
 
 - 1 xícara de chá de leite morno
