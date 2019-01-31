@@ -5,6 +5,12 @@ date:   2017-06-23 12:00:00 -0200
 categories: references
 ---
 
+> Psychologist Lisa Marie Bobby says the relatively low rate of male solo travel has a lot to do with how men relate to their partners. Men, she says, do relationships through activities. Their way of bonding with another person may involve playing video games or going bowling, whereas women bond through conversation and often by simply passing time with one another. So when men think of traveling, they think to do it as a pair or group activity. She adds that men also aren’t the most proactive. “Sometimes, when left to their own devices, men don’t do things,” she says. 
+
+> The gender disparity could also be because the desire to better yourself through self-reflection is something women are psychologically more prone to do, Bobby explains. “Not always, but many times, men tend to be less self-aware and less connected to ‘Who am I? What makes me happy? What do I want to get out of my life?’ kinds of questions,” she says. 
+
+https://www.vox.com/the-goods/2019/1/18/18188581/women-travel-alone-men
+
 > One day Alice came to a fork in the road and saw a Cheshire cat in a tree. ‘Which road do I take?’ she asked. ‘Where do you want to go?’ was his response. ‘I don’t know,’ Alice answered. ‘Then,’ said the cat, ‘it doesn’t matter.
 
 Lewis Carroll
