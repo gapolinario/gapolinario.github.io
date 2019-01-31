@@ -5,15 +5,29 @@ date:   2017-06-23 12:00:00 -0200
 categories: references
 ---
 
+
 > Psychologist Lisa Marie Bobby says the relatively low rate of male solo travel has a lot to do with how men relate to their partners. Men, she says, do relationships through activities. Their way of bonding with another person may involve playing video games or going bowling, whereas women bond through conversation and often by simply passing time with one another. So when men think of traveling, they think to do it as a pair or group activity. She adds that men also aren’t the most proactive. “Sometimes, when left to their own devices, men don’t do things,” she says. 
 
 > The gender disparity could also be because the desire to better yourself through self-reflection is something women are psychologically more prone to do, Bobby explains. “Not always, but many times, men tend to be less self-aware and less connected to ‘Who am I? What makes me happy? What do I want to get out of my life?’ kinds of questions,” she says. 
 
 https://www.vox.com/the-goods/2019/1/18/18188581/women-travel-alone-men
 
+
+> Thus, what really matters is _subsidiarity_ rather than sovereignty. 
+
+Timothy Gowers, [$\\in$][in]
+
+[in]: https://gowers.wordpress.com/2016/06/02/6172/#more-6172
+
+> We haven’t time to spare to hear whether it was between Italy and Sicily that he ran into a storm or somewhere outside the world we know–when every day we’re running into our own storms, spiritual storms, and driven by vice into all the troubles that Ulysses ever knew.
+
+Seneca
+
+
 > One day Alice came to a fork in the road and saw a Cheshire cat in a tree. ‘Which road do I take?’ she asked. ‘Where do you want to go?’ was his response. ‘I don’t know,’ Alice answered. ‘Then,’ said the cat, ‘it doesn’t matter.
 
 Lewis Carroll
+
 
 
 > Lemmas do the work in mathematics: Theorems, like management, just take the credit.
@@ -32,15 +46,12 @@ Lewis Carroll, Alice's Adventures in Wonderland
 
 Richard Feynman
 
-> Logician: Another syllogism. All cats
- die. Socrates is dead. Therefore Socrates is a cat.
+> Logician: Another syllogism. All cats die. Socrates is dead. Therefore Socrates is a cat.
 
 Eugene Ionesco, Rhinoceros
 
 > If it wasn't obvious from a map, you can tell the crater is in America since, like many things american,
   it is privately owned.
-
-Lisa Randall, Dark Matter and Dinosaurs
 
 > In 1980, the group led by Walter and Luiz Alvarez proposed that a big meteoroid had collided with the Earth
   and rained down rare earth metals, including iridium.
@@ -57,10 +68,8 @@ Leonardo da Vinci
 Paulo Mendes da Rocha, arquiteto brasileiro
 
 >	Do I contradict myself?
-
->	Very well then I contradict myself,
-
->	(I am large, I contain multitudes.)
+	Very well then I contradict myself,
+	(I am large, I contain multitudes.)
 
 Walt Whitman, “Song of myself“, 1855
 
@@ -91,12 +100,9 @@ a quote that links closely to the Landauer principle, known to physicists.
 [quantaBottleneck]: https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/
 
 >	When everything seems to be set
-
->	to show me off as a man of intelligence,
-
->	the fool I keep concealed on my person
-
->	takes over my talk and occupies my mouth
+	to show me off as a man of intelligence,
+	the fool I keep concealed on my person
+	takes over my talk and occupies my mouth
 
 Pablo Neruda, We Are Many, 1967
 
