@@ -5,6 +5,9 @@ date:   2017-06-23 12:00:00 -0200
 categories: references
 ---
 
+> To survive, you must tell stories.
+
+Umberto Eco
 
 > Psychologist Lisa Marie Bobby says the relatively low rate of male solo travel has a lot to do with how men relate to their partners. Men, she says, do relationships through activities. Their way of bonding with another person may involve playing video games or going bowling, whereas women bond through conversation and often by simply passing time with one another. So when men think of traveling, they think to do it as a pair or group activity. She adds that men also aren’t the most proactive. “Sometimes, when left to their own devices, men don’t do things,” she says. 
 
