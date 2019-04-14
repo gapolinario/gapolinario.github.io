@@ -5,6 +5,10 @@ date:   2017-06-23 12:00:00 -0200
 categories: references
 ---
 
+> What then is time? If no one asks me, I know what it is. If I wish to explain it to him who asks, I do not know.
+
+Saint Augustine
+
 > To survive, you must tell stories.
 
 Umberto Eco
