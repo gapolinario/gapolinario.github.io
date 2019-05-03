@@ -5,6 +5,11 @@ date:   2017-06-23 12:00:00 -0200
 categories: references
 ---
 
+> We should see turbulence as one of those concepts, like life, love, language, and beauty, that overlaps with science.
+
+Philip Ball
+http://nautil.us/issue/15/turbulence/the-scientific-problem-that-must-be-experienced
+
 > What then is time? If no one asks me, I know what it is. If I wish to explain it to him who asks, I do not know.
 
 Saint Augustine
