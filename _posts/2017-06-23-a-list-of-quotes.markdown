@@ -5,10 +5,14 @@ date:   2017-06-23 12:00:00 -0200
 categories: references
 ---
 
+> “You don’t understand, if I’m not there to receive these ideas, God might give them to Prince.”
+
+Michael Jackson
+
 > We should see turbulence as one of those concepts, like life, love, language, and beauty, that overlaps with science.
 
-Philip Ball
-http://nautil.us/issue/15/turbulence/the-scientific-problem-that-must-be-experienced
+Philip Ball, [here][ball-turb]
+[ball-turb]: http://nautil.us/issue/15/turbulence/the-scientific-problem-that-must-be-experienced
 
 > What then is time? If no one asks me, I know what it is. If I wish to explain it to him who asks, I do not know.
 
@@ -22,8 +26,8 @@ Umberto Eco
 
 > The gender disparity could also be because the desire to better yourself through self-reflection is something women are psychologically more prone to do, Bobby explains. “Not always, but many times, men tend to be less self-aware and less connected to ‘Who am I? What makes me happy? What do I want to get out of my life?’ kinds of questions,” she says. 
 
-https://www.vox.com/the-goods/2019/1/18/18188581/women-travel-alone-men
-
+[here][vox-travel]
+[vox-travel]: https://www.vox.com/the-goods/2019/1/18/18188581/women-travel-alone-men
 
 > Thus, what really matters is _subsidiarity_ rather than sovereignty. 
 
@@ -35,12 +39,9 @@ Timothy Gowers, [$\\in$][in]
 
 Seneca
 
-
 > One day Alice came to a fork in the road and saw a Cheshire cat in a tree. ‘Which road do I take?’ she asked. ‘Where do you want to go?’ was his response. ‘I don’t know,’ Alice answered. ‘Then,’ said the cat, ‘it doesn’t matter.
 
 Lewis Carroll
-
-
 
 > Lemmas do the work in mathematics: Theorems, like management, just take the credit.
 
