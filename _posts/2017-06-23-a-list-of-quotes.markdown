@@ -12,6 +12,7 @@ Michael Jackson
 > We should see turbulence as one of those concepts, like life, love, language, and beauty, that overlaps with science.
 
 Philip Ball, [here][ball-turb]
+
 [ball-turb]: http://nautil.us/issue/15/turbulence/the-scientific-problem-that-must-be-experienced
 
 > What then is time? If no one asks me, I know what it is. If I wish to explain it to him who asks, I do not know.
@@ -27,6 +28,7 @@ Umberto Eco
 > The gender disparity could also be because the desire to better yourself through self-reflection is something women are psychologically more prone to do, Bobby explains. “Not always, but many times, men tend to be less self-aware and less connected to ‘Who am I? What makes me happy? What do I want to get out of my life?’ kinds of questions,” she says. 
 
 [here][vox-travel]
+
 [vox-travel]: https://www.vox.com/the-goods/2019/1/18/18188581/women-travel-alone-men
 
 > Thus, what really matters is _subsidiarity_ rather than sovereignty. 
@@ -80,26 +82,26 @@ Leonardo da Vinci
 
 Paulo Mendes da Rocha, arquiteto brasileiro
 
->	Do I contradict myself?
-	Very well then I contradict myself,
-	(I am large, I contain multitudes.)
+> Do I contradict myself?
+  Very well then I contradict myself,
+  (I am large, I contain multitudes.)
 
 Walt Whitman, “Song of myself“, 1855
 
 Michael Harris p.30, p.34
 
->	Não. Sou um pouco como [o documentarista Eduardo] Coutinho,
-	alguém à espera de querer acreditar, sem conseguir.
-	Às vezes eu ia à igreja naquele espírito do Pascal:
-	se você quer acreditar, primeiro fique de joelhos.
-	Imaginando que, ao me submeter ao ritual, isso prepararia
-	o caminho para recuperar uma fé que talvez eu tenha tido
-	quando era muito novo e que depois eu perdi.
-	Essa inquietação em relação a não encontrar sentido nas
-	coisas se torna mais aguda quando o sentido não é lhe
-	dado de fora para dentro. É mais fácil enfrentar a dissolução
-	da intensidade quando você tem transcendência.
-	Como não tenho, ela precisa ser encontrada no ato de fazer, criar.
+> Não. Sou um pouco como [o documentarista Eduardo] Coutinho,
+ alguém à espera de querer acreditar, sem conseguir.
+ Às vezes eu ia à igreja naquele espírito do Pascal:
+ se você quer acreditar, primeiro fique de joelhos.
+ Imaginando que, ao me submeter ao ritual, isso prepararia
+ o caminho para recuperar uma fé que talvez eu tenha tido
+ quando era muito novo e que depois eu perdi.
+ Essa inquietação em relação a não encontrar sentido nas
+ coisas se torna mais aguda quando o sentido não é lhe
+ dado de fora para dentro. É mais fácil enfrentar a dissolução
+ da intensidade quando você tem transcendência.
+ Como não tenho, ela precisa ser encontrada no ato de fazer, criar.
 
 João Moreira Salles, em entrevista à [Bravo][bravo-joao]
 
@@ -112,10 +114,10 @@ a quote that links closely to the Landauer principle, known to physicists.
 
 [quantaBottleneck]: https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/
 
->	When everything seems to be set
-	to show me off as a man of intelligence,
-	the fool I keep concealed on my person
-	takes over my talk and occupies my mouth
+> When everything seems to be set
+to show me off as a man of intelligence,
+the fool I keep concealed on my person
+takes over my talk and occupies my mouth
 
 Pablo Neruda, We Are Many, 1967
 
