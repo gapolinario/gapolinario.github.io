@@ -5,6 +5,16 @@ date:   2017-06-23 12:00:00 -0200
 categories: references
 ---
 
+> I'm writing a poem right now about a nose. I've always wanted to write a poem about a nose. But it's a ludicrous subject. That's why, when I was younger, I was afraid of [writing] something that didn't make a lot of sense. But now I'm not. I have nothing to worry about. It doesn't matter."
+
+Maurice Sendak, [interview][npr-sendak]
+
+[npr-sendak]: https://www.npr.org/2012/05/08/152248901/fresh-air-remembers-author-maurice-sendak
+
+> Sometimes I don’t even think I can think without seeing it on the page.
+
+Austin Kleon
+
 > “You don’t understand, if I’m not there to receive these ideas, God might give them to Prince.”
 
 Michael Jackson
