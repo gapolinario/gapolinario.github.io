@@ -11,7 +11,7 @@ You can look it up under the computer (if it is a laptop),
 usually close to the battery. But even if it has already
 erased, you can find it out using the computer.
 
-Open 'Microsoft Powershell' and type
+Open `Microsoft Powershell` and type
 
     (Get-WmiObject -query 'select * from SoftwareLicensingService').OA3xOriginalProductKey
 
