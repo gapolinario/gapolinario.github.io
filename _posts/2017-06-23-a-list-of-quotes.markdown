@@ -5,6 +5,10 @@ date:   2017-06-23 12:00:00 -0200
 categories: references
 ---
 
+> The whole is more than the sum of the parts
+
+Aristotle, Metaphysica
+
 > The gods have imposed upon my writing
  the yoke of a foreign tongue
  that was not sung at my cradle.
