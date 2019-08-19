@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Always up to date comprehensive list of latex packages"
+title:  "Comprehensive list of latex packages"
 date:   2017-06-18 12:00:00 -0200
 categories: latex
 ---

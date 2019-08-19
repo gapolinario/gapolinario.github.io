@@ -5,6 +5,30 @@ date:   2017-06-23 12:00:00 -0200
 categories: references
 ---
 
+> The whole is more than the sum of the parts
+
+Aristotle, Metaphysica
+
+> The gods have imposed upon my writing
+ the yoke of a foreign tongue
+ that was not sung at my cradle.
+
+Hermann Weyl
+
+> I come from childhood as from a homeland.
+
+Antoine de Saint-Exupéry, Pilot de Guerre
+
+> I'm writing a poem right now about a nose. I've always wanted to write a poem about a nose. But it's a ludicrous subject. That's why, when I was younger, I was afraid of [writing] something that didn't make a lot of sense. But now I'm not. I have nothing to worry about. It doesn't matter."
+
+Maurice Sendak, [interview][npr-sendak]
+
+[npr-sendak]: https://www.npr.org/2012/05/08/152248901/fresh-air-remembers-author-maurice-sendak
+
+> Sometimes I don’t even think I can think without seeing it on the page.
+
+Austin Kleon
+
 > “You don’t understand, if I’m not there to receive these ideas, God might give them to Prince.”
 
 Michael Jackson
@@ -121,57 +145,46 @@ takes over my talk and occupies my mouth
 
 Pablo Neruda, We Are Many, 1967
 
->       Most people who quote Einstein’s declaration that “God does not play dice” seem not to realize that
-	a dice-playing God would be an improvement over the actual situation.
+> Most people who quote Einstein’s declaration that “God does not play dice” seem not to realize that a dice-playing God would be an improvement over the actual situation.
 
 Scott Aaronson, [NP-complete Problems and Physical Reality][npc-aar]
 
 [npc-aar]: https://www.scottaaronson.com/papers/npcomplete.pdf
 
->	I remember simple things, I remember how I could not understand simple things, this makes me a teacher.
+> I remember simple things, I remember how I could not understand simple things, this makes me a teacher.
 
 H. Khudaverdyan, found in Group Theory Nut, p. xviii, see A. Borovik, Mathematics under the Microscope, p. 61
 
-> 	Stanley Kubrick shares with Orson Welles and Carl Dreyer the
-	role of the Great Confounder — remaining supremely himself
-	while frustrating every attempt to anticipate his next move
-	or to categorize it once it registers.
+> Stanley Kubrick shares with Orson Welles and Carl Dreyer the
+role of the Great Confounder — remaining supremely himself
+while frustrating every attempt to anticipate his next move
+or to categorize it once it registers.
 
 Jonathan Rosenbaum, in the Full Metal Jacket [review][rosenbaum-kubrick]
 
 [rosenbaum-kubrick]: http://www.jonathanrosenbaum.net/2014/06/full-metal-jacket/
 
->       And there's something intriguing about the way that we as humans can
-        pull ourselves outside of system, and this actually has been used by
-        some to suggest that this is why human consciouness is actually much
-        more than just an analog computer, because how can an analog computer
-        pull itself out of the system that it is stuck within, yet we seem to
-        be able to shift from outside the system to see meaning of that
-        sentence, go inside of the system, prove that it can't be proved
-        (...).
+> And there's something intriguing about the way that we as humans can
+pull ourselves outside of system, and this actually has been used by
+some to suggest that this is why human consciouness is actually much
+more than just an analog computer, because how can an analog computer
+pull itself out of the system that it is stuck within, yet we seem to
+be able to shift from outside the system to see meaning of that
+sentence, go inside of the system, prove that it can't be proved
+(...).
 
 Marcus du Sautoy, in a Numberphile video on
 [Gödel's Incompleteness Theorem][godel-marcus].
 
 [godel-marcus]: https://www.youtube.com/watch?v=mccoBBf0VDM&feature=youtu.be
 
->      I don't know. I think I'm sick. And I don't know if my ailment has a name.
-       It's just me sitting and staring at the Internet or the television...
-       for long periods of time interspersed by trying to not do that.
-       And then lying about what I've been doing.
-       Then I'll get so excited about something that the excitement overwhelms me...
-       and I can't sleep or do anything. And I just am in love with everything...
-       but can't figure out how to make myself work in the world.
-
-Brooke, in Mistress America (2015, dir: Noah Baumbach)
-
-> 	You might well ask yourself: Why? Why do you do all of that?
-	Why don't you just get it right the first time?
-	Well, the problem is, we know we're gonna be wrong, and ...
-	if we don't allow ourselves to be wrong, we're never gonna
-	do anything new, we're just gonna rely on things that we know
-	work. So, for us, making mistakes is an essential part of
-	our process, we're not embarassed by it, in fact, we plan for it.
+> You might well ask yourself: Why? Why do you do all of that?
+Why don't you just get it right the first time?
+Well, the problem is, we know we're gonna be wrong, and ...
+if we don't allow ourselves to be wrong, we're never gonna
+do anything new, we're just gonna rely on things that we know
+work. So, for us, making mistakes is an essential part of
+our process, we're not embarassed by it, in fact, we plan for it.
 
 Pete Docter, Westminster Town Hall (2015), extract from [this video essay][edit-animated]
 

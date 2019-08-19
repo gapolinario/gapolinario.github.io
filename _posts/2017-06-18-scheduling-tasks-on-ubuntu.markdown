@@ -5,7 +5,7 @@ date:   2017-06-18 12:00:00 -0200
 categories: linux
 ---
 
-Run 'crontab -e' to open the scheduling and add your jobs in the following format
+Run `crontab -e` to open the scheduling and add your jobs in the following format
 
     MIN HOUR DOM MON DOW CMD
 
