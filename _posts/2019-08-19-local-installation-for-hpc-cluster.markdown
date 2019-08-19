@@ -15,6 +15,7 @@ pip install --user package-name
 ```
 
 GNU Parallel is a program to execute simple programs in parallel
+
 To install it locally (with the help of [this link][par]):
 
 ```
