@@ -24,3 +24,17 @@ folder where they were extracted and run the standard sequence
 ```
 
 Many libraries only need this to be installed and configured properly.
+
+Note:
+GNU Libraries instead need
+
+```
+ ./configure
+ make
+ make check
+ make install
+```
+
+according to [this][this] source.
+
+[this]: https://stackoverflow.com/questions/45665878/a-out-error-while-loading-shared-libraries-libgsl-so-23-cannot-open-shared
