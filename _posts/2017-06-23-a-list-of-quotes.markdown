@@ -5,6 +5,12 @@ date:   2017-06-23 12:00:00 -0200
 categories: references
 ---
 
+> Trust yourself when all men doubt you, but make allowance for their doubting too.
+
+Rudyard Kipling, found in [Cormac McCarthy's advices to scientists][mccarthy]
+
+[mccarthy]: https://www.nature.com/articles/d41586-019-02918-5
+
 > The whole is more than the sum of the parts
 
 Aristotle, Metaphysica
