@@ -11,7 +11,7 @@ and can be easily called with the `,mt` command (make true) and `,mf` command (m
 	nnoremap ,mt :s/False/True/<CR>
 	nnoremap ,mf :s/True/False/<CR>
 
-[This][map] is a great tutorial on the details of the vim mappings and shortcuts
+[This][maps] is a great tutorial on the details of the vim mappings and shortcuts
 and [this][rep] is a reference on search and replace
 
 [maps]: https://medium.com/vim-drops/understand-vim-mappings-and-create-your-own-shortcuts-f52ee4a6b8ed
