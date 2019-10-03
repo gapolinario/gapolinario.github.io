@@ -15,3 +15,10 @@ I will begin with two blogs with several interesting posts on this topic: [Seria
 This tweet:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Yesterday I offered to share some writing advice that has worked for me, &amp; it garnered a lot of interest! So I&#39;m going to share it here in a thread instead of individually by email because we can all agree that academic writing is HARD! So here we go <a href="https://twitter.com/hashtag/phdchat?src=hash&amp;ref_src=twsrc%5Etfw">#phdchat</a> <a href="https://twitter.com/hashtag/AcademicTwitter?src=hash&amp;ref_src=twsrc%5Etfw">#AcademicTwitter</a></p>&mdash; Katie Grogan 👩‍🔬🧬 (@Dr_KatieG1) <a href="https://twitter.com/Dr_KatieG1/status/1149305568567472131?ref_src=twsrc%5Etfw">July 11, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+A resource which is always interesting and brings discussions on
+ethics in science, jobs in science, graduate curriculum and
+new research is the [Nature briefing][brief] newsletter,
+this link goes to their subscription page.
+
+[brief]: https://www.nature.com/briefing/signup/
