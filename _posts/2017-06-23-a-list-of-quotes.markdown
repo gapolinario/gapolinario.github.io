@@ -5,6 +5,10 @@ date:   2017-06-23 12:00:00 -0200
 categories: references
 ---
 
+> Nothing can be done except little by little.
+
+Charles Baudelaire
+
 > Trust yourself when all men doubt you, but make allowance for their doubting too.
 
 Rudyard Kipling, found in [Cormac McCarthy's advices to scientists][mccarthy]
