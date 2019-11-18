@@ -5,6 +5,12 @@ date:   2017-06-23 12:00:00 -0200
 categories: references
 ---
 
+> All in all, I have found great delight and pleasure in the pursuit of mathematics. Along the way I have made
+great friends and worked with a number of people. I have been saved from boredom, dourness, and self-absorption.
+One cannot ask for more
+
+Karen Uhlenbeck's acceptance speech for the Leroy P. Steele Prize
+
 > Nothing can be done except little by little.
 
 Charles Baudelaire
