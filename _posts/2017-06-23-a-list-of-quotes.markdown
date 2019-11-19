@@ -5,6 +5,14 @@ date:   2017-06-23 12:00:00 -0200
 categories: references
 ---
 
+> The ability to reduce everything to simple fundamental laws does not imply the ability to start from those laws and reconstruct the universe.
+
+> The constructionist hypothesis breaks down when confronted with the twin difficulties of scale and complexity. The behavior of large and complex aggregates of elementary particles, it turns out, is not to be understood in terms of a simple extrapolation of the properties of a few particles. Instead, at each level of complexity entirely new properties appear, and the understanding of the new behaviors requires research which I think is as fundamental in its nature as any other.
+
+P. W. Anderson, [More Is Different][andersonmore]
+
+[andersonmore]: https://science.sciencemag.org/content/177/4047/393
+
 > All in all, I have found great delight and pleasure in the pursuit of mathematics. Along the way I have made
 great friends and worked with a number of people. I have been saved from boredom, dourness, and self-absorption.
 One cannot ask for more
