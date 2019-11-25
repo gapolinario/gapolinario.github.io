@@ -5,6 +5,22 @@ date:   2017-06-23 12:00:00 -0200
 categories: references
 ---
 
+> Es preciso, pues, restituir a la vida humana su tercera dimensión.
+
+Jorge Luis Borges, Discusión
+
+> Spontaneity is a meticulously prepared art
+
+Oscar Wilde
+
+> There are very few human beings who receive the truth, complete and staggering, by instant illumination. Most of them acquire it fragment by fragment, on a small scale, by successive developments, cellularly, like a laborious mosaic.
+
+Anais Nin, Journals Of Anais Nin Volume 3 
+
+> I want to live where things happen on a big scale.
+
+F. Scott Fitzgerald, The Ice Palace and Other Stories 
+
 > The ability to reduce everything to simple fundamental laws does not imply the ability to start from those laws and reconstruct the universe.
 
 > The constructionist hypothesis breaks down when confronted with the twin difficulties of scale and complexity. The behavior of large and complex aggregates of elementary particles, it turns out, is not to be understood in terms of a simple extrapolation of the properties of a few particles. Instead, at each level of complexity entirely new properties appear, and the understanding of the new behaviors requires research which I think is as fundamental in its nature as any other.
