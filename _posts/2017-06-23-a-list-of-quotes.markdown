@@ -5,6 +5,12 @@ date:   2017-06-23 12:00:00 -0200
 categories: references
 ---
 
+> Path and future both cast their ripples into the dreaming
+
+> Don't you just love the subway? I just have to set foot on a subway train, and it's like a magic carpet. Y'know? It could take you anywhere.
+
+The Sandman, A Game of You
+
 > Nothing can be done except little by little.
 
 Charles Baudelaire
