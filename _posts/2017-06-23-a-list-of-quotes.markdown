@@ -5,6 +5,10 @@ date:   2017-06-23 12:00:00 -0200
 categories: references
 ---
 
+> Any human power can be resisted and changed by human beings
+
+Ursula K. Le Guin
+
 > O real não está na saída nem na chegada: ele se dispõe para a gente é no meio da travessia
 
 Guimarães Rosa
