@@ -67,7 +67,8 @@ $$
 p = \mathrm{Pr}[N_1 \geq 44|N=65,H_0] \ .
 $$
 
-The probability of watching $N_1$ _good_ movies out of $N$ total movies is a binomial random variable, and its probability is
+
+The number of _good_ movies, $N_1$, out of a total of $N$ movies is a binomial random variable, and the probability of this event happening, under the null hypothesis, is
 
 $$
 \mathrm{Pr}[N_1|N,H_0] = \binom{N}{N_1} \ x^{N_1} \ (1-x)^{N-N_1} \ ,
