@@ -88,7 +88,8 @@ $$
 
 The smaller the $p$ value, the higher the significance of the result, because it shows that this result is unlikely to come from the null hypothesis. In scientific research, the effect is said to be _significant_ if $p$ is below some threshold, usually one of these values: 0.05, 0.01, 0.005, or 0.001.
 
-My $p$ value is not below any of these thresholds, but this is not rigorous scientific research and I consider myself convinced that this effect isn't just a random fluctuation (maybe this is an instance of confirmation bias?)
+My $p$ value is not below any of these thresholds, but this is not rigorous scientific research and I consider myself convinced that this effect isn't just a random fluctuation (maybe this is an instance of confirmation bias?).
+Also, let's not forget that the statistical sample is not large, there are less than 300 movies in total, thus statistical fluctuations of the averages and a large variation in the $p$ value are expected. Therefore, a solid result is hard to obtain.
 
 One more interesting observation is: If I had taken $x=0.58$, with the null hypothesis that movies in theaters follow the same distribution as movies at home, the $p$ value would be different. In this case
 
@@ -96,7 +97,6 @@ $$p=0.07 \ ,$$
 
 which is quite smaller than the previous value for $p$. 
 This is an instance of $p$ hacking, a topic which is under a lot of discussion nowadays. Some popular discussions are available at [Wired][wired] and [FiveThirtyEight][538].
-Also, let's not forget that the statistical sample is not large, there are less than 300 movies in total, thus statistical fluctuations of the averages and a large variation in the $p$ value are expected.
 
 In the end, I consider this a positive result, but still no explanation has been given to the effect. Is it because I choose movies better when I go to the theater? Is it because I pay more attention? Is it because the theater screen has a hypnotizing effect on me?
 
