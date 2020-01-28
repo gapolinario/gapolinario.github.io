@@ -39,7 +39,7 @@ hostname=computername
 FromLineOverride=YES
 ```
 
-Then emails are happily sent with
+Then emails are sent easily with
 
     printf "This is the message body\n" | mail -s "Topic" destinatario@mail.com
 

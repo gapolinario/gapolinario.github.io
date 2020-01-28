@@ -13,7 +13,6 @@ List the partitions on the computer
 
     lsblk
 
-
 This will show you the name of the partition you want to format as a live USB and
 tell you whether it is mounted or not. If it is, remember to unmount it
 
@@ -22,7 +21,6 @@ tell you whether it is mounted or not. If it is, remember to unmount it
 Then comes the burning part
 
     dd bs=4M if=myfile.iso of=/dev/sdb && sync
-
 
 Notice this is not /sdb1/, but /sdb, simply. When you are done, don't forget to leave root
 
