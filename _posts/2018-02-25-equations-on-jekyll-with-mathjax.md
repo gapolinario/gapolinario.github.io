@@ -14,7 +14,7 @@ nothing of this or any installation was needed,
 I just had to create the `_includes` directory
 and add some files, as described.
 
-Now I display the same formula twice for your appreciation:
+Now I display the same formula twice as a test:
 
 $$a^2+b^2=c^2$$
 
