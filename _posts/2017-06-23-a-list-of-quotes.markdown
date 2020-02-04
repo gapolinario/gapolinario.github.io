@@ -19,7 +19,7 @@ Ursula K. Le Guin
 
 Guimarães Rosa
 
-> Path and future both cast their ripples into the dreaming
+> Past and future both cast their ripples into the dreaming
 
 > Don't you just love the subway? I just have to set foot on a subway train, and it's like a magic carpet. Y'know? It could take you anywhere.
 
@@ -89,7 +89,7 @@ Maurice Sendak, [interview][npr-sendak]
 
 Austin Kleon
 
-> “You don’t understand, if I’m not there to receive these ideas, God might give them to Prince.”
+> You don’t understand, if I’m not there to receive these ideas, God might give them to Prince.
 
 Michael Jackson
 
@@ -106,14 +106,6 @@ Saint Augustine
 > To survive, you must tell stories.
 
 Umberto Eco
-
-> Psychologist Lisa Marie Bobby says the relatively low rate of male solo travel has a lot to do with how men relate to their partners. Men, she says, do relationships through activities. Their way of bonding with another person may involve playing video games or going bowling, whereas women bond through conversation and often by simply passing time with one another. So when men think of traveling, they think to do it as a pair or group activity. She adds that men also aren’t the most proactive. “Sometimes, when left to their own devices, men don’t do things,” she says. 
-
-> The gender disparity could also be because the desire to better yourself through self-reflection is something women are psychologically more prone to do, Bobby explains. “Not always, but many times, men tend to be less self-aware and less connected to ‘Who am I? What makes me happy? What do I want to get out of my life?’ kinds of questions,” she says. 
-
-[here][vox-travel]
-
-[vox-travel]: https://www.vox.com/the-goods/2019/1/18/18188581/women-travel-alone-men
 
 > Thus, what really matters is _subsidiarity_ rather than sovereignty. 
 
@@ -233,8 +225,7 @@ be able to shift from outside the system to see meaning of that
 sentence, go inside of the system, prove that it can't be proved
 (...).
 
-Marcus du Sautoy, in a Numberphile video on
-[Gödel's Incompleteness Theorem][godel-marcus].
+Marcus du Sautoy, to [Numberphile][godel-marcus].
 
 [godel-marcus]: https://www.youtube.com/watch?v=mccoBBf0VDM&feature=youtu.be
 
