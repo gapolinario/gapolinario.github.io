@@ -5,6 +5,12 @@ date:   2017-06-23 12:00:00 -0200
 categories: references
 ---
 
+> A little randomness allows you to smear out the difficulties
+
+Sam Punshon-Smith, to [Quanta magazine][quanta-batchelor]
+
+[quanta-batchelor]: https://www.quantamagazine.org/mathematicians-prove-batchelors-law-of-turbulence-20200204/
+
 > Any human power can be resisted and changed by human beings
 
 Ursula K. Le Guin
