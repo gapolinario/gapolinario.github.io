@@ -2,7 +2,7 @@
 layout: post
 title:  "Burgers Equation I: The Integrating Factor Method"
 date:   2018-08-08 10:00:00 -0300
-categories: math, physics
+categories: [math, physics]
 ---
 
 This is the first post on a series about the Burgers equation,

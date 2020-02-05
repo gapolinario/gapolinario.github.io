@@ -2,7 +2,7 @@
 layout: post
 title:  "The Latex Bibliography"
 date:   2019-10-29 15:00:00 -0300
-categories: science, latex
+categories: [science, latex]
 ---
 
 In [this guide][bib],

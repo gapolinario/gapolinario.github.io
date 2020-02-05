@@ -2,7 +2,7 @@
 layout: post
 title:  "Interests and Financial Mathematics"
 date:   2018-10-29 15:00:00 -0300
-categories: math, finances
+categories: [math, finances]
 ---
 
 There are several blogs and internet channels teaching

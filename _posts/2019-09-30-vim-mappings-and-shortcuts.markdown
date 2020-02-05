@@ -2,7 +2,7 @@
 layout: post
 title:  "Vim mappings and shortcuts"
 date:   2019-09-30 18:00:00 -0300
-categories: linux, vim
+categories: [linux, vim]
 ---
 
 I created these vim shortcuts, which replace False with True and True with False
