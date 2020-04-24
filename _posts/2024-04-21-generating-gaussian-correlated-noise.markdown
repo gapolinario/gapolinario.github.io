@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Generating Gaussian Correlated Noise"
-date:   2024-04-21 12:00:00 -0300
+date:   2020-12-21 12:00:00 -0300
 categories: physics
 ---
 
