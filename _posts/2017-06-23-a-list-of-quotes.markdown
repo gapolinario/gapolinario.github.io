@@ -5,6 +5,12 @@ date:   2017-06-23 12:00:00 -0200
 categories: references
 ---
 
+> Suppose that we could find a finite system of rules which enabled us to say whether any given formula was demonstrable or not. This system would embody a theorem of metamathematics. There is of course no such theorem and this is very fortunate, since if there were we should have a mechanical set of rules for the solution of all mathematical problems, and our activities as mathematicians would come to an end.
+
+G. H. Hardy (1929). Mathematical proof Mind, 38, 149, cited in [Arxiv 2005.04729][vulpiani-arxiv]
+
+[vulpiani-arxiv]: https://arxiv.org/abs/2005.04729
+
 > A little randomness allows you to smear out the difficulties
 
 Sam Punshon-Smith, to [Quanta magazine][quanta-batchelor]
