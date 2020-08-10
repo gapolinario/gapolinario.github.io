@@ -23,7 +23,7 @@ twitter_username: gbapolinario
 github_username:  gapolinario
 
 # Build settings
-markdown: markdown
+markdown: GFM
 theme: minima
 plugins:
   - jekyll-feed
