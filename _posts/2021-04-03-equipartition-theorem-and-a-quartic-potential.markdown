@@ -40,7 +40,7 @@ where $k_1$ must be positive, but $k_2$ may be positive or negative.
 
 The notation for this problem can be simplified if we use dimensionless variables. Here, all units can be measured in terms of $\beta$ and $k_1$.
 Then, $V = \beta U$ is a dimensionless energy and $z = (\beta k_1)^{1/4} x$ is a dimensionless length.
-The expectation value of $V$ will depend only on the dimensionless parameter $D = \sqrt{\frac{\beta}{k_1}} k_2$.
+The expectation value of $V$ will depend only on the dimensionless parameter $D = \sqrt{\beta / k_1} k_2$.
 
 $$ V(z) = z^4 / 4 + D z^2 / 2 $$
 
@@ -67,7 +67,7 @@ This result has an horizontal asymptote, as $D\rightarrow\infty$, which is $\lan
 Now, if $D < 0$:
 
 $$
-\langle V \rangle = \frac{1}{N_-} \int V(z) e^{-V(z)} dz = -\frac{d^2 \left(I_{3/4}\left(\frac{d^2}{8}\right)+I_{\frac{5}{4}}\left
+\langle V \rangle = \frac{1}{N_-} \int V(z) e^{-V(z)} dz = -\frac{d^2 \left(I_{3/4}\left(\frac{d^2}{8}\right)+I_{5/4}\left
    (\frac{d^2}{8}\right)\right)+\left(d^2-2\right) I_{-1/4}\left(\frac{d^2}{8}\right)+\left(d^2+2\right)
    I_{1/4}\left(\frac{d^2}{8}
    \right)}{8
