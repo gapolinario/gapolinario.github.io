@@ -18,7 +18,7 @@ $$ U(x) = k x^2 / 2 $$
 
 Then
 
-$$ \langle \beta U \rangle = \frac{1}{N_2} \int_{-\infty}^{+\infty} \frac{\beta k x^2}{2} e^{-\beta k x^2 / 2} dx \ , $$
+$$ \langle \beta U \rangle = \frac{1}{N_2} \int_{-\infty}^{+\infty} frac{\beta k x^2}{2} e^{-\beta k x^2 / 2} dx \ , $$
 
 where $N_2$ is a normalization constant for the quadratic potential.
 
