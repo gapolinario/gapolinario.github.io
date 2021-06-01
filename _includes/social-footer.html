@@ -62,4 +62,22 @@ target="_blank">
 </a>
 {%- endif -%}
 
+{%- if site.scholar -%}
+<a title="{{ _locale_string_follow | replace: '[NAME]', 'Scholar' }}"
+class="social-button scholar" itemprop="sameAs"
+href="https://www.scholar.google.com/citations?user={{ site.scholar }}"
+target="_blank">
+<i class="fab fa-google"></i>
+</a>
+{%- endif -%}
+
+{%- if site.arxiv -%}
+<a title="{{ _locale_string_follow | replace: '[NAME]', 'Arxiv' }}"
+class="social-button arxiv" itemprop="sameAs"
+href="https://arxiv.org/a/{{ site.arxiv }}"
+target="_blank">
+<i class="fas fa-times"></i>
+</a>
+{%- endif -%}
+
 </div>

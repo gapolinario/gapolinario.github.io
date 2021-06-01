@@ -16,13 +16,14 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
+email: gabriel.brito_apolinario@ens-lyon.fr
 twitter: "gbapolinario"
 #linkedin: "#"
 github: "gapolinario"
 #researchgate: "#"
 orcid: "0000-0003-4230-4072"
-# scholar: https://scholar.google.com/citations?user=7RL5_NsAAAAJ&
-# arxiv: https://arxiv.org/a/apolinario_g_1.html
+scholar: "7RL5_NsAAAAJ&"
+arxiv: "apolinario_g_1"
 # lattes: http://lattes.cnpq.br/9462982316488552
 
 highlighter: rouge
@@ -62,6 +63,6 @@ exclude:
 
 plugins:
 #  - jekyll-seo-tag
-#  - jekyll-paginate
-#  - jekyll-email-protect
-#  - jekyll-target-blank
+  - jekyll-paginate
+  - jekyll-email-protect
+  - jekyll-target-blank

@@ -45,3 +45,6 @@ The social-icons footer can be used to link profiles from GitHub, OrcID and Reas
 
 Refs:
 https://jipolanco.gitlab.io/
+
+To restart history:
+https://stackoverflow.com/questions/9725156/remove-old-git-commits
