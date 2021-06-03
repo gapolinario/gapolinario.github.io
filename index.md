@@ -7,11 +7,11 @@ profile:
 published: true
 ---
 
-Researcher in physics, currently a postdoc at [ENS de Lyon][ensphy], and working on the modelling of statistical aspects of Navier-Stokes turbulence.
+I am a researcher in physics, currently a postdoc fellow at [ENS de Lyon][ensphy], interested in the fields of statistical physics, nonlinear dynamics and turbulence. I am working on the modeling of statistical aspects of Navier-Stokes turbulence.
 
-I obtained my physics PhD at [IF-UFRJ][ufrjfi], located in Rio de Janeiro, Brazil, where I studied analytical and numerical approaches to large deviations in models of fluid turbulence, in collaboration with [Luca Moriconi][lmori].
+I completed my PhD in physics at [IF-UFRJ][ufrjfi], located in Rio de Janeiro, Brazil, where I studied analytical and numerical approaches to large deviations in models of fluid turbulence, in collaboration with [Luca Moriconi][lmori].
 
-
+Here you can find my publications, PhD thesis, open source projects, and some blog posts on different topics of math and physics.
 
 [ensphy]: http://www.ens-lyon.fr/PHYSIQUE/
 [ufrjfi]: https://www.if.ufrj.br/
