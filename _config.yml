@@ -4,7 +4,8 @@ title: Gabriel B. Apolinário
 description: Physics | Postdoc researcher at ENS de Lyon
 
 #baseurl: /gradfolio #name of GitHub repository
-url: #custom url to be used instead of GitHub repository
+url: https://gapolinario.github.io/
+  #custom url to be used instead of GitHub repository
 email: #
 
 highlighter: rouge
