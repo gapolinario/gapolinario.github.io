@@ -80,4 +80,13 @@ target="_blank">
 </a>
 {%- endif -%}
 
+{%- if site.rss -%}
+<a title="{{ _locale_string_follow | replace: '[NAME]', 'RSS' }}"
+class="social-button rss" itemprop="sameAs"
+href="https://gapolinario.github.io/feed.xml"
+target="_blank">
+<i class="fas fa-rss-square"></i>
+</a>
+{%- endif -%}
+
 </div>
