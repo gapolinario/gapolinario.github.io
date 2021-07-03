@@ -5,7 +5,10 @@ date:   2021-07-02 18:00:00 +0200
 categories: physics
 ---
 
-Fractional Gaussian fields (FGFs) are a canonical example of random fields. They are spatial versions of the fractional Brownian motion, a stochastic process with self-similar and correlated increments, which is characterized by a parameter $H$, called the Hurst exponent. The Hurst exponent is a measure of autocorrelations in a series. If it is between 1/2 and 1, there is positive autocorrelation in the series, meaning that high values are usually followed by high values, while if it is between 0 and 1/2, there is negative autocorrelation, and the values oscillate strongly. If $H=1/2$, successive values are independent, and the fractional Gaussian field coincides with Brownian motion.
+I describe the basic properties of fractional Gaussian fields and show some numerical simulations.
+
+Fractional Gaussian fields (FGFs) are a canonical example of random fields. They are spatial versions of the fractional Brownian motion, a stochastic process with self-similar and correlated increments, which is characterized by a parameter $H$, called the Hurst exponent.
+The Hurst exponent is a measure of autocorrelations in a series. If it is between 1/2 and 1, there is positive autocorrelation in the series, meaning that high values are usually followed by high values, while if it is between 0 and 1/2, there is negative autocorrelation, and the values oscillate strongly. If $H=1/2$, successive values are independent, and the fractional Gaussian field coincides with Brownian motion.
 Let us define a scalar random field $u(x)$ for in $x \in \mathbb{R}^d$ by
 
 $$
