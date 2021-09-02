@@ -18,7 +18,7 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 email: gabriel.brito_apolinario@ens-lyon.fr
-twitter: "gbapolinario"
+#twitter: "gbapolinario"
 #linkedin: "#"
 github: "gapolinario"
 #researchgate: "#"
