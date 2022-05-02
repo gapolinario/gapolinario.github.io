@@ -7,7 +7,7 @@ categories: math
 
 In this post we'll look at the statistical properties of fractional Gaussian fields in arbitrary dimensions.
 
-We denote vectors in real space by $x$ or $y$ and vectors in Fourier space by $k$ or $k'$. Their absolute values are indicated as $|x|$ and $|k|$. With this notation, a fractional Gaussian field in $d$-dimensions is defined as
+We denote vectors in real space by $x$ or $y$ and vectors in Fourier space by $k$ or $k'$. Their absolute values are indicated as $\lvert x \lvert$ and $\lvert k \lvert$. With this notation, a fractional Gaussian field in $d$-dimensions is defined as
 
 $$
 u_H(x) = \int_{\mathbb{R}^d} e^{2\pi i k \cdot x} \frac{1}{\lvert k \lvert^{H+d/2}_{1/L}} \widehat{dW}(k) \ ,
@@ -34,38 +34,38 @@ $$
 With the definition of $u_H$, we can show that
 
 $$
-E(k) = \frac{1}{|k|_{1/L}^{2H+d}} ,
+E(k) = \frac{1}{\lvert k \lvert_{1/L}^{2H+d}} ,
 $$
 
-which depends only on the absolute value of $k$. For this reason, we can define an angle-averaged spectrum, $E_{\Omega}(|k|)$, as
+which depends only on the absolute value of $k$. For this reason, we can define an angle-averaged spectrum, $E_{\Omega}(\lvert k \lvert)$, as
 
 $$
-E_{\Omega}(|k|) = \int d\Omega_d \, |k|^{d-1} E(k) ,
+E_{\Omega}(\lvert k \lvert) = \int d\Omega_d \, \lvert k \lvert^{d-1} E(k) ,
 $$
 
 where $d\Omega_d$ represents the $d$-dimensional spherical volume element. At large wavelengths, we obtain the asymptotic result
 
 $$
-E_{\Omega}(|k|) \underset{k \to \infty}{\sim} \Omega_d \, |k|^{-2H-1} .
+E_{\Omega}(\lvert k \lvert) \underset{k \to \infty}{\sim} \Omega_d \, \lvert k \lvert^{-2H-1} .
 $$
 
 Another variable of interest is the **variance** of $u_H$, given by
 
 $$
-\mathbb{E}\left[ |u_H|^2 \right] = \int_{\mathbb{R}^d} d^dk \, E(k) = \int_{\mathbb{R}^+} d|k| \, E_{\Omega}(|k|) .
+\mathbb{E}\left[ |u_H|^2 \right] = \int_{\mathbb{R}^d} d^dk \, E(k) = \int_{\mathbb{R}^+} d\lvert k \lvert \, E_{\Omega}(\lvert k \lvert) .
 $$
 
-This integral is finite for $H > 0$, and the result depends on the regularization chosen for $|k|$. If $u_H$ had not been regularized, the variance would be infinite. With the regularization chosen above, we have the explicit result
+This integral is finite for $H > 0$, and the result depends on the regularization chosen for $\lvert k \lvert$. If $u_H$ had not been regularized, the variance would be infinite. With the regularization chosen above, we have the explicit result
 
 $$
-\mathbb{E} \left[ |u_H|^2 \right] = \Omega_d \int_{\mathbb{R}^+} d|k| \frac{|k|^{d-1}}{\lvert k \lvert^{2H+d}_{1/L}}
+\mathbb{E} \left[ |u_H|^2 \right] = \Omega_d \int_{\mathbb{R}^+} d\lvert k \lvert \frac{\lvert k \lvert^{d-1}}{\lvert k \lvert^{2H+d}_{1/L}}
 = \frac{\Gamma(d/2) \, \Gamma(H)}{2 \, \Gamma(H+d/2)} L^{2H} .
 $$
 
 Another interesting observable is the **velocity gradient variance**, defined by
 
 $$
-\mathbb{E}\left[ |\nabla u_H|^2 \right] = 4 \pi^2 \int_{\mathbb{R}^d} d^dk \, |k|^2 E(k) = \int_{\mathbb{R}^+} d|k| \, |k|^2 E_{\Omega}(|k|) .
+\mathbb{E}\left[ |\nabla u_H|^2 \right] = 4 \pi^2 \int_{\mathbb{R}^d} d^dk \, \lvert k \lvert^2 E(k) = \int_{\mathbb{R}^+} d\lvert k \lvert \, \lvert k \lvert^2 E_{\Omega}(\lvert k \lvert) .
 $$
 
 This is not finite, though, it diverges for $H \leq 1$. This result is expected, since the velocity field $u_H$ is not differentiable for $H \leq 1$.
@@ -122,13 +122,13 @@ $$
 The integral in $\theta$ is
 
 $$
-\int_0^{2\pi} d\theta \, ( 1-\cos(2 \pi |k| \cos \theta ) ) = 2 \pi (1- J_0(2 \pi |k|)) ,
+\int_0^{2\pi} d\theta \, ( 1-\cos(2 \pi \lvert k \lvert \cos \theta ) ) = 2 \pi (1- J_0(2 \pi \lvert k \lvert)) ,
 $$
 
 where $J_0$ is a Bessel function, and the full result it
 
 $$
-\text{(2D)} \qquad \mathbb{E} \left[ \lvert \delta_{\ell} u_H \lvert^2 \right] \underset{\ell \to 0}{\sim} 4 \pi \int_{\mathbb{R}^+} d|k| \left(1-J_0(2\pi |k|) \right) |k|^{-2H-1} = \frac{2 \pi^{2+2H}}{\sin(\pi H) \Gamma^2(1+H)}
+\text{(2D)} \qquad \mathbb{E} \left[ \lvert \delta_{\ell} u_H \lvert^2 \right] \underset{\ell \to 0}{\sim} 4 \pi \int_{\mathbb{R}^+} d\lvert k \lvert \left(1-J_0(2\pi \lvert k \lvert) \right) \lvert k \lvert^{-2H-1} = \frac{2 \pi^{2+2H}}{\sin(\pi H) \Gamma^2(1+H)}
 $$
 
 The 3D case is interesting because it can be done both with generalized spherical coordinates or with standard 3d spherical coordinates and both results match.
@@ -137,19 +137,19 @@ With 3D spherical coordinates, we have to calculate
 
 $$
 \int_{\mathbb{R}^3} d^3k \frac{\lvert e^{2\pi i k \cdot e_i}-1 \lvert^2}{\lvert k \lvert^{2H+d}}
-= 2 \int_{0}^{2\pi} d\varphi \int_0^{\pi} \sin \theta \, d\theta \int_0^{\infty} |k|^2 d|k| \, \frac{1-\cos(2\pi |k| \cos \theta)}{\lvert k \lvert^{2H+3}}
+= 2 \int_{0}^{2\pi} d\varphi \int_0^{\pi} \sin \theta \, d\theta \int_0^{\infty} \lvert k \lvert^2 d\lvert k \lvert \, \frac{1-\cos(2\pi \lvert k \lvert \cos \theta)}{\lvert k \lvert^{2H+3}}
 $$
 
 The integral in $\varphi$ is trivial. Then we can integrate in $\theta$,
 
 $$
-\int_0^{\pi} d\theta \sin \theta  \left( 1-\cos(2 \pi |k| \cos \theta ) \right) = 2 - \frac{\sin(2\pi |k|)}{\pi |k|} ,
+\int_0^{\pi} d\theta \sin \theta  \left( 1-\cos(2 \pi \lvert k \lvert \cos \theta ) \right) = 2 - \frac{\sin(2\pi \lvert k \lvert)}{\pi \lvert k \lvert} ,
 $$
 
 and finally
 
 $$
-2 \int_{\mathbb{R}^+} dk \left( 2 - \frac{\sin(2\pi |k|)}{\pi |k|} \right) |k|^{-2H-1} = \frac{2 (2\pi)^{2H}}{\sin(\pi H) \Gamma(2+2H)} .
+2 \int_{\mathbb{R}^+} dk \left( 2 - \frac{\sin(2\pi \lvert k \lvert)}{\pi \lvert k \lvert} \right) \lvert k \lvert^{-2H-1} = \frac{2 (2\pi)^{2H}}{\sin(\pi H) \Gamma(2+2H)} .
 $$
 
 Multiplying all factors together, we obtain
@@ -162,15 +162,15 @@ $$
 In arbitrary $d$-spherical coordinates, we have one angle from 0 to $2\pi$ and $d-2$ angles from 0 to $\pi$. They can be chosen in a way that $k \cdot e_i = k \cos \phi_1$ where $\phi_1$ is one of the angles from 0 to $\pi$. In this way, this structure function is
 
 $$
-2 \int_{\mathbb{R}^+} d|k| \, |k|^{d-1} \int_{0}^{\pi} d\phi_1 \, \sin^{d-2}(\phi_1) \ldots
+2 \int_{\mathbb{R}^+} d\lvert k \lvert \, \lvert k \lvert^{d-1} \int_{0}^{\pi} d\phi_1 \, \sin^{d-2}(\phi_1) \ldots
 \int_{0}^{\pi} d\phi_{d-2} \, \sin(\phi_{d-2}) \int_{0}^{2 \pi} d\phi_{d-1}
-( 1-\cos(2 \pi |k| \cos \phi_1 ) ) |k|^{-2H-d}
+( 1-\cos(2 \pi \lvert k \lvert \cos \phi_1 ) ) \lvert k \lvert^{-2H-d}
 $$
 
 This integral is finite when the following integral is finite:
 
 $$
-\int_{\mathbb{R}^+} d|k| \, ( 1-\cos(2 \pi |k| \cos \phi_1 ) ) |k|^{-2H-1} .
+\int_{\mathbb{R}^+} d\lvert k \lvert \, ( 1-\cos(2 \pi \lvert k \lvert \cos \phi_1 ) ) \lvert k \lvert^{-2H-1} .
 $$
 
 At infinity, integrability is obtained for $H > 0$, and at the origin, $H < 1$. Hence we have a finite result for $0 < H < 1$.
@@ -178,13 +178,13 @@ At infinity, integrability is obtained for $H > 0$, and at the origin, $H < 1$. 
 Now we can go back to the explicit computations. The integral over $\phi_1$ is
 
 $$
-f_1(|k|) = \int_{0}^{\pi} d\phi_1 \, \sin^{d-2} \phi_1 \left( 1-\cos(2 \pi |k| \cos \phi_1 ) \right) = \frac{\sqrt{\pi} \,\Gamma(d/2-1/2)}{\Gamma(d/2)} \left( 1- {}_0 F_1(d/2,-\pi^2 |k|^2) \right) .
+f_1(\lvert k \lvert) = \int_{0}^{\pi} d\phi_1 \, \sin^{d-2} \phi_1 \left( 1-\cos(2 \pi \lvert k \lvert \cos \phi_1 ) \right) = \frac{\sqrt{\pi} \,\Gamma(d/2-1/2)}{\Gamma(d/2)} \left( 1- {}_0 F_1(d/2,-\pi^2 \lvert k \lvert^2) \right) .
 $$
 
-Then, the integral over $|k|$ is
+Then, the integral over $\lvert k \lvert$ is
 
 $$
-I_1 = 2 \int_{\mathbb{R}^+} d|k| \, \frac{f_1(|k|)}{|k|^{2H+1}} = \frac{\pi^{2H+3/2} \, \Gamma(d/2-1/2)}{\Gamma(1+H)\Gamma(H+d/2)} .
+I_1 = 2 \int_{\mathbb{R}^+} d\lvert k \lvert \, \frac{f_1(\lvert k \lvert)}{\lvert k \lvert^{2H+1}} = \frac{\pi^{2H+3/2} \, \Gamma(d/2-1/2)}{\Gamma(1+H)\Gamma(H+d/2)} .
 $$
 
 The integral $\phi_{d-1}$ is simply $2\pi$. The remaining integrals are of the form
