@@ -137,6 +137,23 @@ $$
 
 This simple equation with an analytical solution can be used as a test for the code, and as a way to understand the timescales involved in the pseudospectral algorithm. It serves as the first step to nonlinear problems, which are more complex and very often don't have analytical solutions.
 
+For a further reading on the stochastic heat equation, the reader may consult
+
+1. Walsh, J. B. (1986). An introduction to stochastic partial differential equations.
+
+*This classic paper discusses the mathematical properties of linear PDEs with an external noise, such as the heat equation.*
+
+2. [Chevillard, L. Une peinture aléatoire de la turbulence des fluides (2015)][chevpeint] (in french)
+
+*This text revisits the stochastic heat equation problem under the light of the phenomenology of turbulence and rough random fields.*
+
+3. [Slides by Yimin Xiao][xiao].
+
+*Lecture slides on random fields*
+
+
 [heat]: https://github.com/gapolinario/heat-spectral-1d
 [fass]: http://www.math.iit.edu/~fass/478578_Chapter_4.pdf
 [vonneu]: https://en.wikipedia.org/wiki/Von_Neumann_stability_analysis
+[chevpeint]: https://perso.ens-lyon.fr/laurent.chevillard/MyPageFiles/MyHDR.pdf
+[xiao]: https://sites.math.northwestern.edu/~auffing/XiaoL1.pdf
