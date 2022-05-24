@@ -58,16 +58,11 @@ These random fields were generated in the C language with the FFTW library and t
 For a further reading on Gaussian random fields and their properties the reader may consult
 
 1. Frisch, U. (1995). Turbulence. Cambridge university press.
-
-*A classic textbook on the phenomenology of turbulence.*
-
+  *A classic textbook on the phenomenology of turbulence.*
 2. [Random fields][jtay].
-
-*Lecture notes by Jonathan Taylor.*
-
+  *Lecture notes by Jonathan Taylor.*
 3. [Reneuve, J., & Chevillard, L. (2020). Flow of spatiotemporal turbulentlike random fields. Physical Review Letters, 125(1), 014502.][renv].
-
-*This paper and its supplementary material detail some applications of random fields to hydrodynamic turbulence.*
+  *This paper and its supplementary material detail some applications of random fields to hydrodynamic turbulence.*
 
 [git]: https://github.com/gapolinario/fractional-gaussian-fields
 [jtay]: https://statweb.stanford.edu/~jtaylo/courses/stats352/notes/random_fields.pdf
