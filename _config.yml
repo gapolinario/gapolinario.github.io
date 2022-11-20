@@ -17,13 +17,14 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-email: gabriel.brito_apolinario@ens-lyon.fr
-#twitter: "gbapolinario"
+email: gapolinario@uni-bayreuth.de
+twitter: "gbapolinario"
+mastodon: "@gapolinario"
 #linkedin: "#"
 github: "gapolinario"
 #researchgate: "#"
 orcid: "0000-0003-4230-4072"
-#scholar: "7RL5_NsAAAAJ&"
+scholar: "7RL5_NsAAAAJ&"
 arxiv: "apolinario_g_1"
 rss: ""
 # lattes: http://lattes.cnpq.br/9462982316488552

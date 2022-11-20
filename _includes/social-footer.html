@@ -89,4 +89,13 @@ target="_blank">
 </a>
 {%- endif -%}
 
+{%- if site.mastodon -%}
+<a title="{{ _locale_string_follow | replace: '[NAME]', 'Mastodon' }}"
+class="social-button arxiv" itemprop="sameAs"
+href="https://masto.pt/{{ site.arxiv }}"
+target="_blank">
+<i class="fas fa-times"></i>
+</a>
+{%- endif -%}
+
 </div>
