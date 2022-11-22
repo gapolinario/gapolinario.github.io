@@ -18,7 +18,7 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 email: gapolinario@uni-bayreuth.de
-twitter: "gbapolinario"
+#twitter: "gbapolinario"
 mastodon: "@gapolinario"
 #linkedin: "#"
 github: "gapolinario"
