@@ -37,6 +37,7 @@
 .fa-orcid,
 .fa-scholar,
 .fa-researchgate,
+.fa-mastodon,
 .fa-envelope {
   font-size: 25px;
 }
@@ -126,6 +127,16 @@
 }
 
 .rounded-social-buttons .social-button.rss:hover, .rounded-social-buttons .social-button.rss:focus {
+  color: #040406;
+  background: #fefefe;
+  border-color: #040406;
+}
+
+.rounded-social-buttons .social-button.mastodon {
+  background: #040406;
+}
+
+.rounded-social-buttons .social-button.mastodon:hover, .rounded-social-buttons .social-button.mastodon:focus {
   color: #040406;
   background: #fefefe;
   border-color: #040406;

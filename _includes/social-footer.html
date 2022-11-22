@@ -80,22 +80,21 @@ target="_blank">
 </a>
 {%- endif -%}
 
+{%- if site.mastodon -%}
+<a title="{{ _locale_string_follow | replace: '[NAME]', 'Mastodon' }}"
+class="social-button mastodon" itemprop="sameAs"
+href="https://mathstodon.xyz/{{ site.mastodon }}"
+target="_blank">
+<i class="fas fa-retweet"></i>
+</a>
+{%- endif -%}
+
 {%- if site.rss -%}
 <a title="{{ _locale_string_follow | replace: '[NAME]', 'RSS' }}"
 class="social-button rss" itemprop="sameAs"
 href="https://gapolinario.github.io/feed.xml"
 target="_blank">
 <i class="fas fa-rss-square"></i>
-</a>
-{%- endif -%}
-
-{%- if site.mastodon -%}
-<a title="{{ _locale_string_follow | replace: '[NAME]', 'Mastodon' }}"
-class="social-button mastodon" itemprop="sameAs"
-href="https://mathstodon.xyz/{{ site.mastodon }}"
-target="_blank">
-<i class="fa-solid fa-m"></i>
-  
 </a>
 {%- endif -%}
 
