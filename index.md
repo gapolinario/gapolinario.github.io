@@ -7,9 +7,9 @@ profile:
 published: true
 ---
 
-I am a researcher in physics, currently a postdoc fellow at the University of Bayreuth, in Germany, working with [Michael Wilczek][lchev]. I am interested in the fields of statistical physics, nonlinear dynamics and turbulence, and I'm working on the modeling of statistical aspects of Navier-Stokes turbulence.
+I am a researcher in physics, currently a postdoc fellow at the University of Bayreuth, in Germany, working with [Michael Wilczek][wilc]. I am interested in the fields of statistical physics, nonlinear dynamics and turbulence, and I'm working on the modeling of statistical aspects of Navier-Stokes turbulence.
 
-Previously, I did my PhD in physics at [IF-UFRJ][ufrjfi], in Rio de Janeiro, Brazil, and a postdoc at the [ENS de Lyon][ensphy].
+Previously, I did my PhD in physics at [IF-UFRJ][ufrjfi] and a postdoc at the [ENS de Lyon][ensphy].
 
 Here you can find my publications, PhD thesis, open source projects, and some blog posts on different topics of math and physics.
 
