@@ -95,7 +95,7 @@ $$
 In the limit of small increments, which is of interest to us,
 
 $$
-\lvert k / \ell \lvert_{1/L} = \frac{1}{\ell^2}\left( k^2 + \frac{\ell^2}{L^2} \right) \underset{\ell \to 0}{\sim} k^2 / \ell^2 .
+\lvert k / \ell \lvert^2_{1/L} = \frac{1}{\ell^2}\left( k^2 + \frac{\ell^2}{L^2} \right) \underset{\ell \to 0}{\sim} k^2 / \ell^2 .
 $$
 
 So we'll integrate
