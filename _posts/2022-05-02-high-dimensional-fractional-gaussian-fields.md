@@ -16,7 +16,7 @@ $$
 where $\lvert k \lvert_{1/L}$ denotes a regularized norm over small wavelengths $k$, meaning that $\lvert k \lvert_{1/L} \approx 1/L$ for small $k$ and $\lvert k \lvert_{1/L} \approx \lvert k \lvert$ for large $k$. One possible choice for this regularization is $\lvert k \lvert_{1/L} = \sqrt{k \cdot k + 1/L^2}$. The increment of a complex Gaussian white noise field is denoted by $dW$ and its Fourier transform by $\widehat{dW}$. All calculations below follow from the statistical properties of this complex white noise: Its mean is zero and its correlation functions are
 
 $$
-\mathbb{E}[W(x) \overline{W(x')}] = \delta^{(d)}(x-x') \qquad \text{and} \qquad \mathbb{E}[W(x) \overline{W(x')}] = 0 ,
+\mathbb{E}[W(x) \overline{W(x')}] = \delta^{(d)}(x-x') \qquad \text{and} \qquad \mathbb{E}[W(x) W(x')] = 0 ,
 $$
 
 where $\delta^{(d)}$ represents a Dirac delta function in $d$-dimensions and $\overline{W(x)}$ represents complex conjugation. The choice of correlation function above means that the real and imaginary components of $W(x)$ are independent.
@@ -95,7 +95,7 @@ $$
 In the limit of small increments, which is of interest to us,
 
 $$
-\lvert k / \ell \lvert_{1/L} = \frac{1}{\ell^2}\left( k^2 + \frac{\ell^2}{L^2} \right) \underset{\ell \to 0}{\sim} k^2 / \ell^2 .
+\lvert k / \ell \lvert^2_{1/L} = \frac{1}{\ell^2}\left( k^2 + \frac{\ell^2}{L^2} \right) \underset{\ell \to 0}{\sim} k^2 / \ell^2 .
 $$
 
 So we'll integrate
