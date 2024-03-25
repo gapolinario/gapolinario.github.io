@@ -196,7 +196,7 @@ A few interesting remarks about these values are:
 
 The next figure compares three models: The linear model (K41) in gray, the lognormal model without bounds on the Holder exponent in red, and the lognormal model with linearization in purple.
 {:refdef: style="text-align: center;"}
-![A comparison between three lognormal models: K41, the naive lognormal and the lognormal with linearization]({{ "/assets/images/lognormal-linearization.png" | absolute_url }})
+![A comparison between three lognormal models: K41, the naive lognormal and the lognormal with linearization]({{ "/assets/images/lognormal-linearization.pdf" | absolute_url }})
 {: refdef}
 
 **References**
