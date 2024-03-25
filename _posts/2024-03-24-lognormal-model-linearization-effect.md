@@ -77,7 +77,7 @@ $$
 
 where $\beta$ is the Holder exponent of the field everywhere in space.
 
-To compute the scaling exponents of this model, we'll use a [saddle point method][math-steep]. If $h_0$ is a minimum of $S(h)$, contained in the integration domain, and $S''(h_0) > 0$, then the following asymptotic integral can be computed with the saddle point method:
+To compute the scaling exponents of this model, we'll use a [saddle point method][math-steep]. If $h_0$ is a minimum of $S(h)$, contained in the integration domain, and $S\prime\prime(h_0) > 0$, then the following asymptotic integral can be computed with the saddle point method:
 
 $$
 \int dh \, f(h) e^{-\lambda S(h)} \underset{\lambda \to
@@ -242,7 +242,7 @@ A few interesting remarks about these values are:
 
 1. The value of $d$  is very close to the independently measured value of 2.8.
 2. The value of $h_{\min}$ is compatible with Onsager's theorem, which requires structures with Holder exponent $h \leq 1/3$ so that there is dissipation without viscosity. (See Ref. 7)
-3. This correspondence predicts that the transition from lognormal to linear happens at $n = (c_1 - h_{\min})/c_2 = 3$. This is a property of the Beta model since it has $\zeta_3 = 1$ and we require $\zeta_p$ to be continuous.
+3. This correspondence predicts that the transition from lognormal to linear happens at $n = (c_1 - h_{\min})/c_2 = 3$. This is a property of the Beta model since it has $\zeta_3 = 1$ and we require $\zeta_n$ to be continuous.
 
 The next figure compares three models: The linear model (K41) in gray, the lognormal model without bounds on the Holder exponent in red, and the lognormal model with linearization in purple.
 {:refdef: style="text-align: center;"}
