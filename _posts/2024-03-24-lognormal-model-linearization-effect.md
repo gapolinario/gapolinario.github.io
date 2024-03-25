@@ -77,10 +77,11 @@ $$
 
 where $\beta$ is the Holder exponent of the field everywhere in space.
 
-To compute the scaling exponents of this model, we'll use a [saddle point method][math-steep]. If $h_0$ is a maximum of $S(h)$, contained in the integration domain, and $S''(h_0) < 0$, then the following asymptotic integral can be computed with the saddle point method:
+To compute the scaling exponents of this model, we'll use a [saddle point method][math-steep]. If $h_0$ is a minimum of $S(h)$, contained in the integration domain, and $S''(h_0) > 0$, then the following asymptotic integral can be computed with the saddle point method:
 
 $$
-\int dh \, f(h) e^{S(h)/\lambda} \underset{\lambda \to 0^+}{\sim} \sqrt{\frac{2\pi \lambda}{|S''(h_0)|}} f(h_0) \, e^{S(h_0) / \lambda}.
+\int dh \, f(h) e^{-\lambda S(h)} \underset{\lambda \to
+\infty}{\sim} \sqrt{\frac{2\pi}{\lambda |S''(h_0)|}} f(h_0) \, e^{- \lambda S(h_0)}.
 $$
 
 Using the saddle point method, we obtain
