@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "The lognormal model and the linearization effect"
+date:   2024-03-25 19:00:00 +0200
+categories: physics, turbulence
+---
+
 The lognormal is the simplest model of the structure-function exponents in turbulence: It predicts quadratic exponents. However, a quadratic function is not always a non-decreasing function; hence, it cannot be a realistic model. This post discusses how a minimum Holder exponent changes this picture, linearizes the lognormal model, and may resolve this contradiction.
 
 **I. Brief review of multifractal theory**
