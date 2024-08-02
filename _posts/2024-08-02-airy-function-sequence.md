@@ -187,10 +187,7 @@ The code for these analytical and numerical computations is available [on Github
 Using eq. 9.10.10 of the  [DLMF](https://dlmf.nist.gov/9.10#E10), integrated over the real line, we can try an alternative proof:
 
 $$
-\int_{\mathbb{R}} x^{3n+3} \mathrm{Ai}(x) \, \mathrm{d}x =
-x^{3n+2} \mathrm{Ai}'(x) \Big\lvert_{-\infty}^{\infty}
-- (3n+2) x^{3n+1} \mathrm{Ai}(x) \Big\lvert_{-\infty}^{\infty}
-+ (3n+1) (3n+2) \int_{\mathbb{R}} x^{3n} \mathrm{Ai}(x) \, \mathrm{d}x
+\int_{\mathbb{R}} x^{3n+3} \mathrm{Ai}(x) \, \mathrm{d}x = x^{3n+2} \mathrm{Ai}'(x) \Big\lvert_{-\infty}^{\infty} - (3n+2) x^{3n+1} \mathrm{Ai}(x) \Big\lvert_{-\infty}^{\infty} + (3n+1) (3n+2) \int_{\mathbb{R}} x^{3n} \mathrm{Ai}(x) \, \mathrm{d}x
 $$
 
 
