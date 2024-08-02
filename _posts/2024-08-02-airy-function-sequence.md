@@ -79,7 +79,7 @@ $$
 
 where $B$ is a complete exponential [Bell polynomial](https://en.wikipedia.org/wiki/Bell_polynomials).
 
-It is interesting to notice that $B_{3n}(0,0,2,0,\cdots,0)$ is equal to the term in the sequence A052502. To show that, we'll show that the recursion relation for this Bell polynomial coincides with the recursion relation for the sequence, which is:
+It is interesting to notice that $B_{3n}(0,0,2,0,\cdots,0)$ is equal to the terms in the sequence A052502. To show that, we prove that the recursion relation for this Bell polynomial coincides with the recursion relation for the sequence, which is:
 
 $$
 \begin{split}
@@ -89,7 +89,7 @@ a_0 &= 1
 $$
 
 First, notice that $B_0 = a_0 = 1$.
-And the general recursion relation for Bell polynomials is
+And the general recursion relation for Bell polynomials, applied to our case, is
 
 $$
 B_{3n+3}(0,0,2,0,\cdots,0) = \sum_{i=0}^{3n+2} \binom{3n+2}{i} B_{3n+2-i}(0,0,2,0,\cdots,0,x_{3n+2-i}) x_{i+1}.
@@ -149,6 +149,7 @@ To show this second identity, we'll use the Dirac delta function instead of the 
 $$
 1 = \int_{-\infty}^{\infty} \delta(\tau) e^{i \tau x} \, \mathrm{d}\tau.
 $$
+
 The rest of the proof is very similar:
 
 $$
@@ -176,18 +177,22 @@ $$
 \int_{-\infty}^{\infty} e^{-x^2} \mathrm{Ai}(x) \, \mathrm{d}x - 3 \int_0^{\infty} e^{-x^2} \mathrm{Ai}(x) \, \mathrm{d}x \approx -0.0003168
 $$
 
-The analytical result was computed with Mathematica and confirmed with a numerical integration, using the `quad` and `quadosc` functions of the [mpmath library](https://mpmath.org/doc/current/calculus/integration.html#mpmath.quadosc). One can also see this difference with eqs. 9.10.14-15 of the [DLMF]((https://dlmf.nist.gov/9.10) .
+The analytical result was computed with Mathematica and confirmed with a numerical integration, using the `quad` and `quadosc` functions of the [mpmath library](https://mpmath.org/doc/current/calculus/integration.html#mpmath.quadosc). One can also see this difference with eqs. 9.10.14-15 of the [DLMF](https://dlmf.nist.gov/9.10) .
 
 However, one could ask if the identity $(\star)$ is only valid for polynomials or if there is any other analytic function, with an infinite number of terms in its expansion, for which this is valid.
 
-The code for these analytical and numerical computations is available [on Github](https://gist.github.com/gapolinario/d9417081dbbc156cca18f3199e282348).
+The code for the analytical and numerical computations above is available [on Github](https://gist.github.com/gapolinario/d9417081dbbc156cca18f3199e282348).
 
 **Another proof**
 
 Using eq. 9.10.10 of the  [DLMF](https://dlmf.nist.gov/9.10#E10), integrated over the real line, we can try an alternative proof:
 
 $$
-\int_{\mathbb{R}} x^{3n+3} \mathrm{Ai}(x) \, \mathrm{d}x = x^{3n+2} \mathrm{Ai}'(x) \Big\lvert_{-\infty}^{\infty} - (3n+2) x^{3n+1} \mathrm{Ai}(x) \Big\lvert_{-\infty}^{\infty} + (3n+1) (3n+2) \int_{\mathbb{R}} x^{3n} \mathrm{Ai}(x) \, \mathrm{d}x
+\begin{split}
+\int_{\mathbb{R}} x^{3n+3} \mathrm{Ai}(x) \, \mathrm{d}x
+&= x^{3n+2} \mathrm{Ai}'(x) \Big\lvert_{-\infty}^{\infty} - (3n+2) x^{3n+1} \mathrm{Ai}(x) \Big\lvert_{-\infty}^{\infty} \\
+&+ (3n+1) (3n+2) \int_{\mathbb{R}} x^{3n} \mathrm{Ai}(x) \, \mathrm{d}x
+\end{split}
 $$
 
 
