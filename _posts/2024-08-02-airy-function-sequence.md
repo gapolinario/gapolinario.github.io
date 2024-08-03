@@ -22,13 +22,14 @@ $$
 
 Let $a_n$, with $n \in \mathbb{N}_0$, be the terms in the sequence A052502. The first identity we will show is
 
-$$
-(1) \qquad \qquad a_n = 3 \int_0^{\infty} x^{3n} \mathrm{Ai}(x) \, \mathrm{d}x
-$$
+\begin{equation}
+a_n = 3 \int_0^{\infty} x^{3n} \mathrm{Ai}(x) \, \mathrm{d}x
+\label{eq:airy_positive}
+\end{equation}
 
 A generalization of this identity to real values of $n$ is in the [DLMF](https://dlmf.nist.gov/9.10#E17), but the connection to the above integer sequence is not mentioned.
 
-To prove Eq. 1, use the same strategy as in [this proof](https://math.stackexchange.com/a/2332853/595069) of
+To prove Eq. \ref{eq:airy_positive}, use the same strategy as in [this proof](https://math.stackexchange.com/a/2332853/595069) of
 
 $$
 \int_0^{\infty} \mathrm{Ai}(x) \, \mathrm{d}x = \frac13 .
@@ -106,7 +107,7 @@ $$
 
 And this shows that $a_n = B_{3n}(0,0,2,0,\cdots,0)$.
 
-Let's go back to proving eq. (1). With this identity for Bell polynomials, we write
+Let's go back to proving eq. \ref{eq:airy_positive}. With this identity for Bell polynomials, we write
 
 $$
 \int_0^{\infty} x^{3n} \mathrm{Ai}(x) \mathrm{d}x = a_n \times \int_{-\infty}^{\infty} \frac{e^{-i \tau^3/3}}{\tau - i 0^+} \frac{\mathrm{d}\tau}{2\pi i}.
@@ -121,28 +122,31 @@ $$
 
 Next, we'll show another formula that connects the Airy function and this sequence:
 
-$$
-(2) \qquad \qquad a_n = \int_{-\infty}^{\infty} x^{3n} \mathrm{Ai}(x) \, \mathrm{d}x
-$$
+\begin{equation}
+a_n = \int_{-\infty}^{\infty} x^{3n} \mathrm{Ai}(x) \, \mathrm{d}x
+\label{eq:airy_real}
+\end{equation}
 
 
 First notice the similarity between the two formulas below
 
-$$
-(A) \qquad \qquad a_n
+\begin{equation}
+a_n
 =  \int_{-\infty}^{\infty} x^{3n} \mathrm{Ai}(x) \, \mathrm{d}x = 
 3 \int_0^{\infty} x^{3n} \mathrm{Ai}(x) \mathrm{d}x
-$$
+\label{eq:airy_both}
+\end{equation}
 
 and
 
-$$
-(B) \qquad \qquad 1
+\begin{equation}
+1
 =  \int_{-\infty}^{\infty} \mathrm{Ai}(x) \, \mathrm{d}x = 
 3 \int_0^{\infty} \mathrm{Ai}(x) \mathrm{d}x
-$$
+\label{eq:airy_norm}
+\end{equation}
 
-(B) is a special case of (A) and is one of the basic properties of the Airy function.
+\ref{eq:airy_norm} is a special case of \ref{eq:airy_both} and is one of the basic properties of the Airy function.
 
 To show this second identity, we'll use the Dirac delta function instead of the Heaviside:
 
@@ -166,9 +170,10 @@ $$
 
 Since $y^n$ is a basis of functions in $\mathbb{R}$, one could naively say that
 
-$$
-(\star) \qquad \int_{-\infty}^{\infty} F(x) \mathrm{Ai}(x) \, \mathrm{d}x = 3 \int_0^{\infty} F(x) \mathrm{Ai}(x) \, \mathrm{d}x
-$$
+\begin{equation}
+\int_{-\infty}^{\infty} F(x) \mathrm{Ai}(x) \, \mathrm{d}x = 3 \int_0^{\infty} F(x) \mathrm{Ai}(x) \, \mathrm{d}x
+\label{eq:naive} 
+\end{equation}
 
 for any analytic function $F$. This is however *wrong*, and can be shown with a counterexample:
 With $F(x) = e^{-x^2}$, both integrals can be computed analytically, and their difference is
@@ -179,7 +184,7 @@ $$
 
 The analytical result was computed with Mathematica and confirmed with a numerical integration, using the `quad` and `quadosc` functions of the [mpmath library](https://mpmath.org/doc/current/calculus/integration.html#mpmath.quadosc). One can also see this difference with eqs. 9.10.14-15 of the [DLMF](https://dlmf.nist.gov/9.10) .
 
-However, one could ask if the identity $(\star)$ is only valid for polynomials or if there is any other analytic function, with an infinite number of terms in its expansion, for which this is valid.
+However, one could ask if the identity \ref{eq:naive} is only valid for polynomials or if there is any other analytic function, with an infinite number of terms in its expansion, for which this is valid.
 
 The code for the analytical and numerical computations above is available [on Github](https://gist.github.com/gapolinario/d9417081dbbc156cca18f3199e282348).
 
@@ -209,6 +214,6 @@ $$
 $$
 
 
-However we can use the same identity, with 0 as the lower limit, to show eq. (1). As a result, we obtain the recursion relation for the [A052502](https://oeis.org/A052502) sequence.
+However we can use the same identity, with 0 as the lower limit, to show eq. \ref{eq:airy_positive}. As a result, we obtain the recursion relation for the [A052502](https://oeis.org/A052502) sequence.
 
 
