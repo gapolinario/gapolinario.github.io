@@ -188,9 +188,128 @@ However, one could ask if the identity \ref{eq:naive} is only valid for polynomi
 
 The code for the analytical and numerical computations above is available [on Github](https://gist.github.com/gapolinario/d9417081dbbc156cca18f3199e282348).
 
-**Another proof**
+**A proof from Olver**
 
-Using eq. 9.10.10 of the  [DLMF](https://dlmf.nist.gov/9.10#E10), integrated over the real line, we can try an alternative proof:
+Let us look at another proof, that does not involve distributions.
+
+We'll compute the negative side of this integral:
+
+$$
+I(p) = \int_{-\infty}^0 x^{3p} \mathrm{Ai}(x) \mathrm{d}x.
+$$
+
+And the positive side is found in the [DLMF](https://dlmf.nist.gov/9.10#E17):
+
+$$
+\int_0^{\infty} x^{3p} \mathrm{Ai}(x) \mathrm{d}x = \frac{(3p)!}{3^{p+1} p!}.
+$$
+
+To compute $I(p)$, let us start with the function
+
+$$
+F(x) = \int_0^{\infty} \mathrm{Ai}(-xv) f(v) \mathrm{d}v.
+$$
+
+Repeated partial integrations produce (See Olver, Ref. 1, Chap 9, Example 8.1, p. 342):
+
+$$
+\begin{split}
+F(x)
+&= \left[ - \frac{A_1(xv)}{x} f(v) - \frac{A_2(xv)}{x^2} f'(v) - \cdots - \frac{A_n(xv)}{x^n} f^{(n-1)}(v)\right]_0^{\infty} \\
+&+ \frac{1}{x^n} \int_0^{\infty} A_n(xv) f^{(n)}(v) \mathrm{d}v,
+\end{split}
+$$
+
+where
+
+$$
+A_1(v) = \int_v^{\infty} \mathrm{Ai}(-t) \mathrm{d}t, \qquad \text{and} \qquad  
+A_s(v) = \int_v^{\infty} A_{s-1}(t) \mathrm{d}t, \ s \geq 2.
+$$
+
+On p. 344 of the same reference we find an expression which will be useful:
+
+$$
+A_s(0) = \frac{2 \cos\left(\tfrac13 (s-1) \pi\right)}{3^{(s+2)/3} \Gamma\left(\frac13 s + \frac23\right)}
+$$
+
+Now, we set $f(v)=(−v)^{3p}$, $x=1$, and start with $p=0$:
+
+$$
+\begin{split}
+I(p=0)
+&= F(x=1) \\
+&= \left[ - A_1(v) f(v) \right]_0^{\infty} + \int_0^{\infty} A_1(v) f^{(1)}(v) \mathrm{d}v \\
+&= \left[ - A_1(v) f(v) \right]_0^{\infty} \\
+&= - A_1(\infty) f(\infty) + A_1(0) f(0) \\
+&= \frac23
+\end{split}
+$$
+
+This matches what we [already knew](https://dlmf.nist.gov/9.10#E11).
+
+In general,
+
+$$
+f^{(3p)}(v) = (-1)^{3p} (3p)!,
+$$
+
+and
+
+$$
+\begin{split}
+I(p)
+&= \int_0^{\infty} \mathrm{Ai}(-v) (-v)^{3p} \mathrm{d}v \\
+&= A_{3p+1}(0) f^{(3p)}(0) \\
+&= (-1)^{3p} A_{3p+1}(0) \times (3p)!
+\end{split}
+$$
+
+Gathering the expression for $A$, we end with
+
+$$
+I(p) = \frac23 \frac{(3p)!}{3^{p} p!},
+$$
+
+and together with the positive integral, we have the final expression for 
+sequence [A052502](https://oeis.org/A052502):
+
+$$
+\int_{-\infty}^{\infty} x^{3p} \mathrm{Ai}(x) dx = \frac{(3p)!}{3^{p} p!},
+$$
+
+The integral $I(p)$ can also be used to show that
+
+$$
+\int_{-\infty}^{\infty} x^{n} \mathrm{Ai}(x) dx = 0 , \ \text{if $n$ is an integer and not a multiple of 3}.
+$$
+
+Observe that
+
+$$
+\cos( n \pi/3) = 
+\begin{cases}
+(-1)^p, &\text{if $p$ is an integer and $n=3p$}, \\
+(-1)^p/2, &\text{if $n=3p+1$} \\
+(-1)^{p+1}/2, &\text{if $n=3p+2$} \\
+\end{cases}
+$$
+
+Therefore, if $n=3p+1$
+
+$$
+\begin{split}
+\int_{-\infty}^{\infty} x^n \mathrm{Ai}(x) \mathrm{d}x
+&= I(n) + \frac{n!}{3^{n/3+1} (n/3+1)!} \\
+&= \left( (-1)^{p+n} + 1 \right) \frac{n!}{3^{n/3+1} (n/3+1)!}
+\end{split}
+$$
+
+which is zero for any integer $p$. The same happens if $n=3p+2$.
+
+**An attempt at a proof**
+
+Using eq. 9.10.10 of the  [DLMF](https://dlmf.nist.gov/9.10#E10), integrated over the real line, we can try another alternative proof:
 
 $$
 \begin{split}
@@ -199,7 +318,6 @@ $$
 &+ (3n+1) (3n+2) \int_{\mathbb{R}} x^{3n} \mathrm{Ai}(x) \, \mathrm{d}x
 \end{split}
 $$
-
 
 It is easy to show that
 
@@ -217,3 +335,6 @@ $$
 However we can use the same identity, with 0 as the lower limit, to show eq. \ref{eq:airy_positive}. As a result, we obtain the recursion relation for the [A052502](https://oeis.org/A052502) sequence.
 
 
+**References**
+
+1. Olver, F. (1997). _Asymptotics and special functions_. AK Peters/CRC Press. 
