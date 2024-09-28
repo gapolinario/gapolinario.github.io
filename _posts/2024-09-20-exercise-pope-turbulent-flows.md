@@ -15,7 +15,7 @@ $$
 
 Below, the velocities and velocity gradients are always calculated at the same position $\vec{x}$, which is omitted from all formulas.
 
-Let's start with an example that is simpler than the one in exercise 6.11, the two-gradient correlation function
+Let's start with an example that is simpler than the one in exercise 6.11, the two-gradient correlation function:
 
 \begin{equation}
 G_{ijkl} = \left\langle \frac{\partial u_i}{\partial x_j} \frac{\partial u_k}{\partial x_l} \right\rangle
