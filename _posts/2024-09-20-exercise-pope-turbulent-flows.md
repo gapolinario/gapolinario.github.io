@@ -30,7 +30,7 @@ $$
 
 where the $\delta_{ij}$ are Kronecker deltas.
 
-If we change the positions of the velocity gradients in \Cref{eq:def_G}, nothing changes, therefore
+If we change the positions of the velocity gradients in Eq.~\ref{eq:def_G}, nothing changes, therefore
 
 $$
 G_{ijkl} = G_{klij}.
@@ -116,11 +116,11 @@ H_{ijklmn} = \sum_{p \in \mathcal{P}\\{i,j,k,l,m,n\\}} a_p \delta_{p_1,p_2} \del
 
 where we call the set of all permutations of the indices $\mathcal{P}\\{i,j,k,l,m,n\\}$ and we sum over all permutations. Each permutation is named $p$, and each element of it is indicated with an index, for instance:
 
-$$p = \\{i,k,j,l,m,n\\} \quad \text{ and } \quad p_2 = k.$$
+$$p = \\{i,k,j,l,m,n\\} \ \text{ and } \ p_2 = k.$$
 
 The enumeration of all permutations, as well as the next steps, were done with Mathematica, follow the link for [the accompanying code](https://github.com/gapolinario/pope-exercise-6-11).
 
-To reduce the complexity of \Cref{eq:def_H_iso}, we appeal to the symmetries of $H$. First we have relabeling symmetry--there are three ways of rearranging the indices that keep the $H$ tensor invariant:
+To reduce the complexity of Eq.~\ref{eq:def_H_iso}, we appeal to the symmetries of $H$. First we have relabeling symmetry--there are three ways of rearranging the indices that keep the $H$ tensor invariant:
 
 1. $H_{ijklmn} = H_{klijmn}$
 2. $H_{ijklmn} = H_{ijmnkl}$
