@@ -116,7 +116,10 @@ H_{ijklmn} = \sum_{p \in \mathcal{P}\\{i,j,k,l,m,n\\}} a_p \delta_{p_1,p_2} \del
 
 where we call the set of all permutations of the indices $\mathcal{P}\\{i,j,k,l,m,n\\}$ and we sum over all permutations. Each permutation is named $p$, and each element of it is indicated with an index, for instance:
 
-$$p = \\{i,k,j,l,m,n\\} \ \mathrm{and} \ p_2 = k.$$
+\begin{equation}
+p = \\{i,k,j,l,m,n\\} \ \mathrm{and} \ p_2 = k.
+\notag
+\end{equation}
 
 The enumeration of all permutations, as well as the next steps, were done with Mathematica, follow the link for [the accompanying code](https://github.com/gapolinario/pope-exercise-6-11).
 
