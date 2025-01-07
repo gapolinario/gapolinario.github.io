@@ -72,7 +72,6 @@ As an interesting side effect, the recursive tree allows us to efficiently obtai
 
 I've included some interactive flashcards to this post with the main ideas. The web app for the flashcards is called [Orbit](https://withorbit.com/), a project by Andy Matuschak. To learn more about spaced repetition, you can check [this explanation by Nicky Case](https://aisafety.dance/#optionalflashcardreview).
 
-```
 <html>
   <head>
     <script type="module" src="https://js.withorbit.com/orbit-web-component.js"></script>
@@ -122,7 +121,6 @@ I've included some interactive flashcards to this post with the main ideas. The 
     </orbit-reviewarea>
   </body>
 </html>
-```
 
 
 **References**
