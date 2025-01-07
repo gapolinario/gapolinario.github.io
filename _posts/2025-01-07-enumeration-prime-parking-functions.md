@@ -99,7 +99,7 @@ I've included some interactive flashcards to this post with the main ideas. The 
 	      answer="$$|\mathrm{PF}(n) | = (n+1)^{n-1}$$"
       ></orbit-prompt>
       <orbit-prompt
-	      question="What is the number of <it>prime</it> parking functions of length $n$?"
+	      question="What is the number of prime parking functions of length $n$?"
 	      answer="$$|\mathrm{PF}'(n) | = (n-1)^{n-1}$$"
       ></orbit-prompt>
       <orbit-prompt
@@ -115,7 +115,7 @@ I've included some interactive flashcards to this post with the main ideas. The 
 	      answer="The Fibonacci sequence"
       ></orbit-prompt>
       <orbit-prompt
-	      question="What is the asymptotic computational complexity of <it>brute force enumeration</it> of parking functions of length $n$?"
+	      question="What is the asymptotic computational complexity of brute force enumeration of parking functions of length $n$?"
 	      answer="$$\Theta(n^n)$$"
       ></orbit-prompt>
     </orbit-reviewarea>
