@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Enumeration of Prime Parking Functions"
-date:   2024-01-07 18:00:00 +0200
+date:   2025-01-07 18:00:00 +0200
 categories: math, computing
 ---
 
