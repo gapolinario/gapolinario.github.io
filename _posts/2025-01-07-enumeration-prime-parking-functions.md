@@ -127,4 +127,4 @@ I've included some interactive flashcards to this post with the main ideas. The 
 
 1. A. G. Konheim and B. Weiss. An occupancy discipline and applications. _SIAM J. Appl. Math._ 14 (1966), 1266–1274. [doi.org/10.1137/0114101](https://doi.org/10.1137/0114101).
 2. Stanley, R. (2023). _Enumerative Combinatorics_ (2nd ed.). Cambridge: Cambridge University Press.
-3. Duarte, R., Guedes de Oliveira, A. The Number of Prime Parking Functions. _Math Intelligencer_ **46**, 222–224 (2024). [doi.org/10.1007/s00283-023-10275-5](https://doi.org/10.1007/s00283-023-10275-5)
+3. Duarte, R. and Guedes de Oliveira, A. The Number of Prime Parking Functions. _Math Intelligencer_ **46**, 222–224 (2024). [doi.org/10.1007/s00283-023-10275-5](https://doi.org/10.1007/s00283-023-10275-5)

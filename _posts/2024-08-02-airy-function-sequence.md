@@ -167,25 +167,6 @@ $$
 \end{split}
 $$
 
-
-Since $y^n$ is a basis of functions in $\mathbb{R}$, one could naively say that
-
-\begin{equation}
-\int_{-\infty}^{\infty} F(x) \mathrm{Ai}(x) \, \mathrm{d}x = 3 \int_0^{\infty} F(x) \mathrm{Ai}(x) \, \mathrm{d}x
-\label{eq:naive} 
-\end{equation}
-
-for any analytic function $F$. This is however *wrong*, and can be shown with a counterexample:
-With $F(x) = e^{-x^2}$, both integrals can be computed analytically, and their difference is
-
-$$
-\int_{-\infty}^{\infty} e^{-x^2} \mathrm{Ai}(x) \, \mathrm{d}x - 3 \int_0^{\infty} e^{-x^2} \mathrm{Ai}(x) \, \mathrm{d}x \approx -0.0003168
-$$
-
-The analytical result was computed with Mathematica and confirmed with a numerical integration, using the `quad` and `quadosc` functions of the [mpmath library](https://mpmath.org/doc/current/calculus/integration.html#mpmath.quadosc). One can also see this difference with eqs. 9.10.14-15 of the [DLMF](https://dlmf.nist.gov/9.10) .
-
-However, one could ask if the identity \ref{eq:naive} is only valid for polynomials or if there is any other analytic function, with an infinite number of terms in its expansion, for which this is valid.
-
 The code for the analytical and numerical computations above is available [on Github](https://gist.github.com/gapolinario/d9417081dbbc156cca18f3199e282348).
 
 **A proof from Olver**
